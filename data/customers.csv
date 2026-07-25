@@ -1,0 +1,1501 @@
+customer_id,first_name,last_name,email,signup_date,acquisition_channel,customer_segment,city,country
+CUST00001,Abigail,Brown,abigail.brown13@example.com,2026-01-29,Google Ads,,Houston,United States
+CUST00002,Ava,White,ava.white23@example.com,2025-11-23,Organic,,Austin,United States
+CUST00003,Olivia,Jackson,olivia.jackson64@example.com,2024-02-02,Google Ads,,Houston,United States
+CUST00004,Elijah,Taylor,elijah.taylor87@example.com,2024-01-28,Email,,Austin,United States
+CUST00005,Lucas,Davis,lucas.davis67@example.com,2025-08-26,Google Ads,,New York,United States
+CUST00006,Elizabeth,Sanchez,elizabeth.sanchez30@example.com,2025-12-15,Meta Ads,,Miami,United States
+CUST00007,Ava,Miller,ava.miller53@example.com,2024-04-14,Google Ads,,Los Angeles,United States
+CUST00008,Benjamin,Ramirez,benjamin.ramirez54@example.com,2025-09-10,Google Ads,,New York,United States
+CUST00009,Jacob,Anderson,jacob.anderson78@example.com,2024-05-07,Referral,,Seattle,United States
+CUST00010,Olivia,Moore,olivia.moore47@example.com,2025-10-05,Email,,San Francisco,United States
+CUST00011,Evelyn,Miller,evelyn.miller18@example.com,2024-02-16,Email,,Miami,United States
+CUST00012,Olivia,Ramirez,olivia.ramirez39@example.com,2024-04-13,Meta Ads,,Boston,United States
+CUST00013,Abigail,Clark,abigail.clark56@example.com,2024-06-15,Meta Ads,,Houston,United States
+CUST00014,Henry,Rodriguez,henry.rodriguez99@example.com,2025-11-30,Email,,Denver,United States
+CUST00015,Abigail,Garcia,abigail.garcia78@example.com,2026-01-16,Google Ads,,Boston,United States
+CUST00016,Charlotte,Rodriguez,charlotte.rodriguez91@example.com,2025-12-05,Email,,San Francisco,United States
+CUST00017,Sofia,Harris,sofia.harris17@example.com,2024-08-22,Organic,,San Francisco,United States
+CUST00018,Charlotte,Rodriguez,charlotte.rodriguez18@example.com,2024-08-04,Referral,,Denver,United States
+CUST00019,Avery,Thompson,avery.thompson50@example.com,2024-08-05,Email,,Seattle,United States
+CUST00020,Avery,Robinson,avery.robinson92@example.com,2025-04-14,Google Ads,,Chicago,United States
+CUST00021,Elijah,White,elijah.white81@example.com,2025-07-05,Google Ads,,Denver,United States
+CUST00022,Lucas,Lewis,lucas.lewis84@example.com,2025-02-12,Meta Ads,,Chicago,United States
+CUST00023,Harper,Thomas,harper.thomas21@example.com,2026-02-12,Google Ads,,Los Angeles,United States
+CUST00024,Ava,Lee,ava.lee30@example.com,2026-03-22,Email,,Denver,United States
+CUST00025,Olivia,Gonzalez,olivia.gonzalez58@example.com,2025-09-02,Referral,,Austin,United States
+CUST00026,Isabella,Moore,isabella.moore11@example.com,2025-11-27,Organic,,Austin,United States
+CUST00027,Elizabeth,Rodriguez,elizabeth.rodriguez92@example.com,2024-12-14,Google Ads,,Seattle,United States
+CUST00028,Oliver,Anderson,oliver.anderson10@example.com,2026-01-09,Organic,,Miami,United States
+CUST00029,Harper,Harris,harper.harris32@example.com,2025-06-03,Referral,,Miami,United States
+CUST00030,Sofia,Lee,sofia.lee74@example.com,2025-09-15,Google Ads,,San Francisco,United States
+CUST00031,Elizabeth,Garcia,elizabeth.garcia79@example.com,2026-03-08,Referral,,New York,United States
+CUST00032,Alexander,Hernandez,alexander.hernandez72@example.com,2024-01-20,Google Ads,,San Francisco,United States
+CUST00033,Avery,Clark,avery.clark49@example.com,2024-09-02,Google Ads,,Denver,United States
+CUST00034,Olivia,Williams,olivia.williams72@example.com,2024-03-11,Referral,,Austin,United States
+CUST00035,Elizabeth,Jones,elizabeth.jones26@example.com,2025-11-06,Meta Ads,,Austin,United States
+CUST00036,Oliver,Rodriguez,oliver.rodriguez77@example.com,2025-09-13,Meta Ads,,Houston,United States
+CUST00037,Logan,Moore,logan.moore98@example.com,2024-07-24,Organic,,Seattle,United States
+CUST00038,Henry,Lee,henry.lee57@example.com,2025-03-24,Organic,,Boston,United States
+CUST00039,Noah,Davis,noah.davis38@example.com,2024-03-06,Meta Ads,,Denver,United States
+CUST00040,Ethan,Davis,ethan.davis85@example.com,2024-08-13,Google Ads,,New York,United States
+CUST00041,Elijah,Williams,elijah.williams14@example.com,2024-12-04,Google Ads,,Houston,United States
+CUST00042,Isabella,Perez,isabella.perez72@example.com,2024-08-07,Meta Ads,,Denver,United States
+CUST00043,Evelyn,Thomas,evelyn.thomas41@example.com,2026-03-14,Meta Ads,,Seattle,United States
+CUST00044,Sophia,Brown,sophia.brown22@example.com,2025-11-05,Meta Ads,,Seattle,United States
+CUST00045,Lucas,Anderson,lucas.anderson16@example.com,2025-11-20,Email,,Los Angeles,United States
+CUST00046,Liam,Gonzalez,liam.gonzalez53@example.com,2026-03-30,Organic,,Houston,United States
+CUST00047,Sophia,Miller,sophia.miller78@example.com,2025-04-04,Google Ads,,Chicago,United States
+CUST00048,Isabella,Anderson,isabella.anderson41@example.com,2024-03-18,Meta Ads,,Austin,United States
+CUST00049,Noah,Johnson,noah.johnson93@example.com,2025-07-07,Organic,,Los Angeles,United States
+CUST00050,Logan,Harris,logan.harris40@example.com,2024-06-19,Meta Ads,,Boston,United States
+CUST00051,Sophia,Ramirez,sophia.ramirez61@example.com,2024-03-01,Google Ads,,New York,United States
+CUST00052,Charlotte,Rodriguez,charlotte.rodriguez68@example.com,2024-10-19,Meta Ads,,Austin,United States
+CUST00053,Henry,Thompson,henry.thompson72@example.com,2024-06-07,Google Ads,,Houston,United States
+CUST00054,Liam,Jackson,liam.jackson79@example.com,2024-03-03,Organic,,New York,United States
+CUST00055,Liam,Jackson,liam.jackson71@example.com,2025-05-29,Referral,,Austin,United States
+CUST00056,Oliver,Johnson,oliver.johnson75@example.com,2024-03-23,Organic,,Los Angeles,United States
+CUST00057,Alexander,Williams,alexander.williams96@example.com,2024-08-28,Meta Ads,,Denver,United States
+CUST00058,Elijah,Jackson,elijah.jackson86@example.com,2024-02-10,Email,,Seattle,United States
+CUST00059,Henry,Jackson,henry.jackson82@example.com,2025-06-19,Meta Ads,,Miami,United States
+CUST00060,Sophia,Perez,sophia.perez50@example.com,2024-09-01,Google Ads,,Chicago,United States
+CUST00061,Henry,Lee,henry.lee48@example.com,2025-04-13,Meta Ads,,Los Angeles,United States
+CUST00062,Emma,Anderson,emma.anderson89@example.com,2025-07-30,Referral,,Los Angeles,United States
+CUST00063,Ethan,Miller,ethan.miller74@example.com,2024-09-28,Google Ads,,San Francisco,United States
+CUST00064,Avery,Williams,avery.williams41@example.com,2025-01-13,Google Ads,,Boston,United States
+CUST00065,Sofia,Moore,sofia.moore48@example.com,2025-09-18,Referral,,Austin,United States
+CUST00066,Emma,Perez,emma.perez80@example.com,2024-11-02,Referral,,Los Angeles,United States
+CUST00067,Avery,Jones,avery.jones43@example.com,2024-04-28,Organic,,Austin,United States
+CUST00068,Ava,Rodriguez,ava.rodriguez46@example.com,2025-09-11,Google Ads,,San Francisco,United States
+CUST00069,Sophia,Perez,sophia.perez91@example.com,2024-09-27,Meta Ads,,Miami,United States
+CUST00070,Avery,Robinson,avery.robinson16@example.com,2024-04-04,Email,,Miami,United States
+CUST00071,Liam,Smith,liam.smith52@example.com,2026-02-28,Google Ads,,Miami,United States
+CUST00072,Oliver,White,oliver.white66@example.com,2025-07-18,Organic,,Austin,United States
+CUST00073,Emma,Brown,emma.brown19@example.com,2025-12-08,Referral,,Austin,United States
+CUST00074,Liam,Clark,liam.clark57@example.com,2025-08-19,Email,,Seattle,United States
+CUST00075,Ava,Johnson,ava.johnson49@example.com,2025-01-08,Organic,,New York,United States
+CUST00076,Avery,Lopez,avery.lopez36@example.com,2025-11-29,Google Ads,,Los Angeles,United States
+CUST00077,Benjamin,Harris,benjamin.harris81@example.com,2025-02-20,Referral,,Chicago,United States
+CUST00078,Logan,Robinson,logan.robinson40@example.com,2024-06-15,Referral,,Chicago,United States
+CUST00079,Avery,Wilson,avery.wilson13@example.com,2024-07-02,Organic,,San Francisco,United States
+CUST00080,Michael,Robinson,michael.robinson62@example.com,2025-11-16,Organic,,Houston,United States
+CUST00081,Isabella,Garcia,isabella.garcia99@example.com,2024-04-20,Meta Ads,,New York,United States
+CUST00082,Daniel,Thomas,daniel.thomas38@example.com,2024-07-23,Organic,,Boston,United States
+CUST00083,Benjamin,Martinez,benjamin.martinez39@example.com,2024-08-16,Google Ads,,Houston,United States
+CUST00084,Charlotte,Hernandez,charlotte.hernandez45@example.com,2024-03-12,Referral,,Miami,United States
+CUST00085,Benjamin,Lee,benjamin.lee75@example.com,2025-02-13,Email,,Austin,United States
+CUST00086,Mia,Smith,mia.smith24@example.com,2024-09-24,Google Ads,,Miami,United States
+CUST00087,Liam,Brown,liam.brown86@example.com,2025-03-20,Meta Ads,,San Francisco,United States
+CUST00088,Lucas,Martin,lucas.martin75@example.com,2024-04-28,Meta Ads,,Denver,United States
+CUST00089,Sophia,Rodriguez,sophia.rodriguez15@example.com,2025-12-26,Meta Ads,,Austin,United States
+CUST00090,Logan,Sanchez,logan.sanchez78@example.com,2025-12-04,Organic,,Houston,United States
+CUST00091,Benjamin,Wilson,benjamin.wilson18@example.com,2025-11-11,Referral,,Denver,United States
+CUST00092,Mia,Perez,mia.perez25@example.com,2026-01-07,Referral,,Austin,United States
+CUST00093,James,Perez,james.perez62@example.com,2024-11-30,Meta Ads,,Miami,United States
+CUST00094,Ethan,Jones,ethan.jones34@example.com,2025-03-06,Email,,Seattle,United States
+CUST00095,Henry,White,henry.white32@example.com,2025-09-22,Email,,Seattle,United States
+CUST00096,Ethan,Clark,ethan.clark10@example.com,2024-11-07,Google Ads,,Seattle,United States
+CUST00097,Michael,Jackson,michael.jackson87@example.com,2025-11-01,Meta Ads,,Boston,United States
+CUST00098,Amelia,Perez,amelia.perez37@example.com,2025-06-07,Meta Ads,,Chicago,United States
+CUST00099,Henry,Williams,henry.williams46@example.com,2025-06-11,Email,,Denver,United States
+CUST00100,Mia,Williams,mia.williams40@example.com,2025-11-19,Meta Ads,,Houston,United States
+CUST00101,Ava,Smith,ava.smith15@example.com,2024-09-07,Referral,,Denver,United States
+CUST00102,Daniel,Harris,daniel.harris19@example.com,2025-04-11,Meta Ads,,Denver,United States
+CUST00103,Sophia,Thompson,sophia.thompson99@example.com,2025-01-28,Meta Ads,,Houston,United States
+CUST00104,Ava,Lee,ava.lee98@example.com,2024-01-06,Organic,,Los Angeles,United States
+CUST00105,Elizabeth,Wilson,elizabeth.wilson38@example.com,2024-06-29,Organic,,Austin,United States
+CUST00106,Amelia,Johnson,amelia.johnson81@example.com,2024-09-12,Referral,,Los Angeles,United States
+CUST00107,Amelia,Jones,amelia.jones69@example.com,2025-11-14,Meta Ads,,Austin,United States
+CUST00108,Alexander,Hernandez,alexander.hernandez66@example.com,2025-09-19,Organic,,Austin,United States
+CUST00109,Lucas,Clark,lucas.clark80@example.com,2025-04-01,Organic,,Boston,United States
+CUST00110,Amelia,Rodriguez,amelia.rodriguez41@example.com,2025-10-14,Google Ads,,Austin,United States
+CUST00111,Mason,Lee,mason.lee40@example.com,2024-10-08,Meta Ads,,Miami,United States
+CUST00112,Elijah,Rodriguez,elijah.rodriguez52@example.com,2024-11-23,Organic,,Los Angeles,United States
+CUST00113,Ava,Jones,ava.jones39@example.com,2025-01-27,Email,,Houston,United States
+CUST00114,Olivia,Wilson,olivia.wilson62@example.com,2024-12-04,Meta Ads,,Seattle,United States
+CUST00115,Liam,Miller,liam.miller63@example.com,2025-02-02,Referral,,Denver,United States
+CUST00116,Emily,Smith,emily.smith83@example.com,2025-01-24,Meta Ads,,San Francisco,United States
+CUST00117,James,Harris,james.harris59@example.com,2025-03-05,Meta Ads,,Austin,United States
+CUST00118,Michael,Martin,michael.martin38@example.com,2025-05-14,Google Ads,,Seattle,United States
+CUST00119,Mason,Smith,mason.smith59@example.com,2024-12-10,Email,,Seattle,United States
+CUST00120,Jacob,Garcia,jacob.garcia69@example.com,2024-05-10,Referral,,Austin,United States
+CUST00121,Emma,Robinson,emma.robinson60@example.com,2025-08-29,Email,,New York,United States
+CUST00122,Olivia,Lee,olivia.lee64@example.com,2024-05-18,Organic,,Chicago,United States
+CUST00123,Liam,Rodriguez,liam.rodriguez58@example.com,2024-12-01,Google Ads,,San Francisco,United States
+CUST00124,Mia,Harris,mia.harris58@example.com,2024-10-11,Organic,,Seattle,United States
+CUST00125,Isabella,Clark,isabella.clark20@example.com,2025-04-26,Google Ads,,Austin,United States
+CUST00126,Liam,Lopez,liam.lopez38@example.com,2025-10-27,Google Ads,,New York,United States
+CUST00127,Elizabeth,Smith,elizabeth.smith41@example.com,2024-07-23,Organic,,Denver,United States
+CUST00128,Ava,Davis,ava.davis26@example.com,2025-04-29,Email,,Denver,United States
+CUST00129,Sophia,Anderson,sophia.anderson99@example.com,2024-09-19,Organic,,Chicago,United States
+CUST00130,Alexander,Martin,alexander.martin24@example.com,2026-03-07,Organic,,Miami,United States
+CUST00131,Noah,Jackson,noah.jackson13@example.com,2024-11-15,Email,,Seattle,United States
+CUST00132,Charlotte,Thompson,charlotte.thompson35@example.com,2024-03-18,Email,,Houston,United States
+CUST00133,Noah,Thompson,noah.thompson48@example.com,2025-12-01,Email,,Los Angeles,United States
+CUST00134,Michael,Jackson,michael.jackson15@example.com,2024-12-21,Meta Ads,,San Francisco,United States
+CUST00135,Olivia,Taylor,olivia.taylor92@example.com,2024-12-15,Google Ads,,Seattle,United States
+CUST00136,Sofia,Thomas,sofia.thomas23@example.com,2025-03-19,Referral,,Boston,United States
+CUST00137,Emily,Jones,emily.jones65@example.com,2024-06-29,Organic,,Miami,United States
+CUST00138,Alexander,Sanchez,alexander.sanchez78@example.com,2026-03-04,Meta Ads,,Seattle,United States
+CUST00139,Sofia,White,sofia.white85@example.com,2024-10-01,Meta Ads,,Houston,United States
+CUST00140,Sofia,Robinson,sofia.robinson21@example.com,2024-10-12,Organic,,Houston,United States
+CUST00141,Elizabeth,Anderson,elizabeth.anderson82@example.com,2025-09-16,Email,,San Francisco,United States
+CUST00142,Emma,Thomas,emma.thomas51@example.com,2024-07-05,Meta Ads,,San Francisco,United States
+CUST00143,Michael,Rodriguez,michael.rodriguez53@example.com,2024-10-13,Organic,,Miami,United States
+CUST00144,Ethan,Smith,ethan.smith76@example.com,2024-07-14,Google Ads,,Seattle,United States
+CUST00145,Mason,Moore,mason.moore40@example.com,2025-12-08,Meta Ads,,Boston,United States
+CUST00146,Amelia,Sanchez,amelia.sanchez12@example.com,2024-04-05,Google Ads,,Seattle,United States
+CUST00147,Emily,Davis,emily.davis49@example.com,2025-11-10,Email,,Boston,United States
+CUST00148,Ethan,Taylor,ethan.taylor54@example.com,2025-03-11,Referral,,Austin,United States
+CUST00149,Mia,Lopez,mia.lopez99@example.com,2025-04-09,Google Ads,,Miami,United States
+CUST00150,Elijah,Brown,elijah.brown34@example.com,2024-11-19,Google Ads,,Austin,United States
+CUST00151,Elizabeth,Thompson,elizabeth.thompson33@example.com,2024-07-15,Google Ads,,Boston,United States
+CUST00152,Isabella,White,isabella.white85@example.com,2026-02-17,Meta Ads,,Miami,United States
+CUST00153,Noah,Clark,noah.clark34@example.com,2024-10-30,Google Ads,,Chicago,United States
+CUST00154,James,Smith,james.smith78@example.com,2024-05-09,Google Ads,,New York,United States
+CUST00155,Ethan,Martinez,ethan.martinez99@example.com,2024-05-09,Email,,Boston,United States
+CUST00156,Noah,Ramirez,noah.ramirez11@example.com,2025-08-10,Google Ads,,Boston,United States
+CUST00157,Amelia,Hernandez,amelia.hernandez33@example.com,2024-02-22,Google Ads,,Boston,United States
+CUST00158,Noah,Clark,noah.clark18@example.com,2025-02-14,Meta Ads,,Denver,United States
+CUST00159,Abigail,Perez,abigail.perez16@example.com,2024-06-04,Google Ads,,Denver,United States
+CUST00160,James,Williams,james.williams41@example.com,2024-05-01,Email,,Seattle,United States
+CUST00161,Alexander,Martin,alexander.martin89@example.com,2024-08-19,Organic,,Seattle,United States
+CUST00162,Amelia,Robinson,amelia.robinson66@example.com,2024-10-31,Organic,,Seattle,United States
+CUST00163,James,Jackson,james.jackson89@example.com,2024-03-02,Email,,Los Angeles,United States
+CUST00164,Elizabeth,Miller,elizabeth.miller90@example.com,2024-08-04,Google Ads,,Los Angeles,United States
+CUST00165,Oliver,Davis,oliver.davis32@example.com,2025-07-19,Google Ads,,New York,United States
+CUST00166,Lucas,Anderson,lucas.anderson98@example.com,2025-08-31,Meta Ads,,New York,United States
+CUST00167,Elijah,Martinez,elijah.martinez46@example.com,2025-12-20,Organic,,Los Angeles,United States
+CUST00168,Henry,Davis,henry.davis43@example.com,2026-03-17,Organic,,Denver,United States
+CUST00169,Henry,Sanchez,henry.sanchez35@example.com,2025-03-11,Google Ads,,Houston,United States
+CUST00170,Abigail,Jones,abigail.jones44@example.com,2024-05-25,Google Ads,,Chicago,United States
+CUST00171,Michael,Martinez,michael.martinez86@example.com,2026-02-05,Organic,,Miami,United States
+CUST00172,Amelia,Brown,amelia.brown69@example.com,2025-12-06,Meta Ads,,Seattle,United States
+CUST00173,Isabella,Taylor,isabella.taylor79@example.com,2025-05-20,Meta Ads,,Denver,United States
+CUST00174,Liam,Lewis,liam.lewis65@example.com,2026-01-22,Meta Ads,,Miami,United States
+CUST00175,Emma,Williams,emma.williams39@example.com,2025-11-21,Organic,,Denver,United States
+CUST00176,Evelyn,Smith,evelyn.smith96@example.com,2024-10-02,Email,,Chicago,United States
+CUST00177,Mason,Taylor,mason.taylor93@example.com,2025-03-28,Referral,,Chicago,United States
+CUST00178,Evelyn,Wilson,evelyn.wilson91@example.com,2025-05-18,Referral,,Boston,United States
+CUST00179,Benjamin,Wilson,benjamin.wilson52@example.com,2024-11-24,Email,,Chicago,United States
+CUST00180,Mia,Wilson,mia.wilson98@example.com,2025-05-22,Google Ads,,Seattle,United States
+CUST00181,Sofia,Harris,sofia.harris80@example.com,2024-02-07,Meta Ads,,San Francisco,United States
+CUST00182,Isabella,Hernandez,isabella.hernandez24@example.com,2026-03-02,Meta Ads,,Austin,United States
+CUST00183,Sofia,Smith,sofia.smith94@example.com,2025-07-09,Meta Ads,,New York,United States
+CUST00184,Sophia,Taylor,sophia.taylor56@example.com,2025-09-29,Organic,,Boston,United States
+CUST00185,Elizabeth,Johnson,elizabeth.johnson36@example.com,2024-09-30,Meta Ads,,Miami,United States
+CUST00186,Amelia,Lewis,amelia.lewis99@example.com,2025-05-11,Google Ads,,Denver,United States
+CUST00187,Michael,Davis,michael.davis30@example.com,2024-11-14,Email,,Austin,United States
+CUST00188,Lucas,Williams,lucas.williams38@example.com,2024-04-26,Meta Ads,,Los Angeles,United States
+CUST00189,Abigail,Clark,abigail.clark29@example.com,2025-05-25,Referral,,Miami,United States
+CUST00190,Harper,Thompson,harper.thompson44@example.com,2025-03-01,Organic,,Boston,United States
+CUST00191,Elijah,Anderson,elijah.anderson80@example.com,2024-05-28,Meta Ads,,Denver,United States
+CUST00192,Harper,White,harper.white27@example.com,2024-03-12,Google Ads,,Seattle,United States
+CUST00193,Mia,Robinson,mia.robinson74@example.com,2024-09-30,Organic,,Miami,United States
+CUST00194,Jacob,Martinez,jacob.martinez85@example.com,2025-08-16,Referral,,Boston,United States
+CUST00195,Daniel,Jones,daniel.jones67@example.com,2025-07-05,Meta Ads,,San Francisco,United States
+CUST00196,Ethan,Harris,ethan.harris79@example.com,2025-01-21,Meta Ads,,San Francisco,United States
+CUST00197,Daniel,Miller,daniel.miller99@example.com,2024-09-01,Email,,Houston,United States
+CUST00198,Daniel,Harris,daniel.harris62@example.com,2024-02-14,Meta Ads,,Boston,United States
+CUST00199,Emily,Robinson,emily.robinson58@example.com,2025-01-30,Referral,,Chicago,United States
+CUST00200,Mason,Johnson,mason.johnson26@example.com,2025-05-29,Referral,,San Francisco,United States
+CUST00201,Daniel,Brown,daniel.brown66@example.com,2024-04-12,Meta Ads,,Boston,United States
+CUST00202,Emma,White,emma.white28@example.com,2025-02-23,Organic,,Chicago,United States
+CUST00203,Olivia,Thomas,olivia.thomas43@example.com,2024-12-12,Email,,Seattle,United States
+CUST00204,Abigail,Williams,abigail.williams52@example.com,2025-11-21,Organic,,Seattle,United States
+CUST00205,Mia,Lee,mia.lee72@example.com,2025-07-08,Google Ads,,Los Angeles,United States
+CUST00206,Elijah,Lee,elijah.lee97@example.com,2024-10-21,Referral,,Los Angeles,United States
+CUST00207,Lucas,Brown,lucas.brown91@example.com,2025-12-21,Organic,,Boston,United States
+CUST00208,Oliver,Thompson,oliver.thompson48@example.com,2024-01-30,Google Ads,,New York,United States
+CUST00209,James,Lopez,james.lopez57@example.com,2025-03-17,Google Ads,,Austin,United States
+CUST00210,Lucas,Jackson,lucas.jackson97@example.com,2026-03-22,Google Ads,,Chicago,United States
+CUST00211,Olivia,Martin,olivia.martin58@example.com,2025-09-26,Email,,Boston,United States
+CUST00212,Logan,Jackson,logan.jackson28@example.com,2024-08-25,Meta Ads,,Miami,United States
+CUST00213,Amelia,Rodriguez,amelia.rodriguez95@example.com,2024-01-10,Organic,,Boston,United States
+CUST00214,Avery,Martinez,avery.martinez96@example.com,2025-07-13,Google Ads,,Boston,United States
+CUST00215,Benjamin,Jackson,benjamin.jackson48@example.com,2025-10-16,Referral,,Miami,United States
+CUST00216,Amelia,Ramirez,amelia.ramirez48@example.com,2024-07-22,Referral,,Boston,United States
+CUST00217,Noah,Davis,noah.davis58@example.com,2025-08-08,Meta Ads,,Miami,United States
+CUST00218,Emily,Martinez,emily.martinez12@example.com,2025-11-05,Meta Ads,,New York,United States
+CUST00219,Evelyn,Ramirez,evelyn.ramirez97@example.com,2026-03-07,Organic,,New York,United States
+CUST00220,Logan,Martin,logan.martin73@example.com,2024-10-20,Organic,,Houston,United States
+CUST00221,Alexander,Sanchez,alexander.sanchez55@example.com,2024-08-12,Email,,Denver,United States
+CUST00222,Isabella,Perez,isabella.perez94@example.com,2025-11-28,Organic,,Los Angeles,United States
+CUST00223,Avery,Lee,avery.lee92@example.com,2024-02-10,Meta Ads,,Boston,United States
+CUST00224,Liam,Jackson,liam.jackson56@example.com,2026-01-19,Google Ads,,Miami,United States
+CUST00225,Mia,White,mia.white63@example.com,2024-06-28,Google Ads,,Austin,United States
+CUST00226,Avery,Lopez,avery.lopez77@example.com,2025-05-28,Referral,,Chicago,United States
+CUST00227,Isabella,Robinson,isabella.robinson71@example.com,2024-10-29,Organic,,San Francisco,United States
+CUST00228,Michael,Brown,michael.brown69@example.com,2024-03-18,Google Ads,,Houston,United States
+CUST00229,Daniel,Perez,daniel.perez96@example.com,2025-02-10,Referral,,Austin,United States
+CUST00230,Benjamin,Williams,benjamin.williams60@example.com,2024-01-15,Google Ads,,Los Angeles,United States
+CUST00231,Amelia,Lopez,amelia.lopez96@example.com,2026-02-05,Email,,Denver,United States
+CUST00232,Charlotte,Clark,charlotte.clark91@example.com,2025-01-15,Google Ads,,Houston,United States
+CUST00233,Mason,Smith,mason.smith89@example.com,2025-07-28,Meta Ads,,Denver,United States
+CUST00234,Elijah,Lee,elijah.lee18@example.com,2025-10-12,Organic,,Miami,United States
+CUST00235,Abigail,Wilson,abigail.wilson24@example.com,2024-05-23,Google Ads,,New York,United States
+CUST00236,James,Thomas,james.thomas24@example.com,2024-04-09,Google Ads,,Austin,United States
+CUST00237,Ava,Gonzalez,ava.gonzalez68@example.com,2025-01-14,Email,,Austin,United States
+CUST00238,Lucas,Jackson,lucas.jackson29@example.com,2025-02-28,Email,,Boston,United States
+CUST00239,Alexander,Wilson,alexander.wilson45@example.com,2024-02-03,Email,,Houston,United States
+CUST00240,Amelia,Anderson,amelia.anderson40@example.com,2025-01-06,Google Ads,,San Francisco,United States
+CUST00241,Ethan,Lewis,ethan.lewis92@example.com,2025-01-02,Google Ads,,Miami,United States
+CUST00242,Sophia,Brown,sophia.brown68@example.com,2024-04-03,Email,,Denver,United States
+CUST00243,Emma,Johnson,emma.johnson52@example.com,2024-09-06,Referral,,Denver,United States
+CUST00244,Sophia,Williams,sophia.williams80@example.com,2024-07-31,Email,,Houston,United States
+CUST00245,Mia,Harris,mia.harris28@example.com,2026-03-18,Referral,,New York,United States
+CUST00246,Isabella,Ramirez,isabella.ramirez28@example.com,2024-05-13,Meta Ads,,Chicago,United States
+CUST00247,Noah,Perez,noah.perez13@example.com,2024-05-14,Google Ads,,Houston,United States
+CUST00248,Evelyn,Hernandez,evelyn.hernandez12@example.com,2024-06-27,Google Ads,,Chicago,United States
+CUST00249,Jacob,Wilson,jacob.wilson77@example.com,2024-04-26,Organic,,Boston,United States
+CUST00250,Amelia,Harris,amelia.harris56@example.com,2025-06-09,Email,,Boston,United States
+CUST00251,Harper,Davis,harper.davis88@example.com,2024-02-14,Organic,,Austin,United States
+CUST00252,James,Anderson,james.anderson92@example.com,2024-02-01,Google Ads,,Boston,United States
+CUST00253,Daniel,Gonzalez,daniel.gonzalez64@example.com,2025-12-03,Google Ads,,Boston,United States
+CUST00254,Olivia,Lewis,olivia.lewis20@example.com,2024-11-25,Email,,Los Angeles,United States
+CUST00255,Ava,Rodriguez,ava.rodriguez89@example.com,2025-10-10,Email,,San Francisco,United States
+CUST00256,Charlotte,Martin,charlotte.martin77@example.com,2024-10-28,Meta Ads,,Denver,United States
+CUST00257,Lucas,Brown,lucas.brown99@example.com,2024-04-27,Organic,,Austin,United States
+CUST00258,Jacob,Ramirez,jacob.ramirez37@example.com,2025-03-16,Meta Ads,,Houston,United States
+CUST00259,Lucas,Hernandez,lucas.hernandez68@example.com,2025-02-12,Meta Ads,,Los Angeles,United States
+CUST00260,Mia,Wilson,mia.wilson50@example.com,2025-11-12,Google Ads,,Chicago,United States
+CUST00261,Henry,Robinson,henry.robinson70@example.com,2024-03-09,Google Ads,,Los Angeles,United States
+CUST00262,Olivia,Wilson,olivia.wilson22@example.com,2026-02-01,Organic,,Chicago,United States
+CUST00263,Ethan,Johnson,ethan.johnson85@example.com,2025-07-29,Email,,Los Angeles,United States
+CUST00264,Lucas,Lopez,lucas.lopez95@example.com,2026-02-07,Meta Ads,,New York,United States
+CUST00265,James,Martin,james.martin49@example.com,2024-12-26,Google Ads,,Austin,United States
+CUST00266,Sophia,Jones,sophia.jones94@example.com,2025-05-08,Google Ads,,Los Angeles,United States
+CUST00267,Benjamin,Ramirez,benjamin.ramirez81@example.com,2025-01-11,Google Ads,,Miami,United States
+CUST00268,Evelyn,Davis,evelyn.davis64@example.com,2025-07-28,Referral,,Denver,United States
+CUST00269,Alexander,Perez,alexander.perez92@example.com,2025-07-24,Google Ads,,Miami,United States
+CUST00270,Emma,Garcia,emma.garcia44@example.com,2025-12-20,Organic,,San Francisco,United States
+CUST00271,Benjamin,Smith,benjamin.smith33@example.com,2024-05-26,Email,,Seattle,United States
+CUST00272,Olivia,Jones,olivia.jones91@example.com,2024-02-01,Google Ads,,Austin,United States
+CUST00273,Sophia,Gonzalez,sophia.gonzalez63@example.com,2025-04-09,Meta Ads,,San Francisco,United States
+CUST00274,James,White,james.white51@example.com,2026-03-06,Referral,,Denver,United States
+CUST00275,Olivia,Lewis,olivia.lewis16@example.com,2024-06-08,Google Ads,,Denver,United States
+CUST00276,Liam,Perez,liam.perez20@example.com,2024-10-05,Meta Ads,,Seattle,United States
+CUST00277,Mason,Martin,mason.martin66@example.com,2025-02-28,Google Ads,,Austin,United States
+CUST00278,Noah,Lopez,noah.lopez65@example.com,2024-04-23,Google Ads,,Denver,United States
+CUST00279,Mason,Taylor,mason.taylor95@example.com,2024-11-11,Google Ads,,Seattle,United States
+CUST00280,Alexander,Johnson,alexander.johnson10@example.com,2024-07-28,Meta Ads,,Houston,United States
+CUST00281,Elizabeth,Jones,elizabeth.jones42@example.com,2024-10-23,Meta Ads,,New York,United States
+CUST00282,Mason,White,mason.white65@example.com,2024-06-28,Google Ads,,Austin,United States
+CUST00283,Emily,Davis,emily.davis74@example.com,2025-07-26,Organic,,San Francisco,United States
+CUST00284,Olivia,Gonzalez,olivia.gonzalez15@example.com,2025-03-22,Google Ads,,Los Angeles,United States
+CUST00285,Daniel,Hernandez,daniel.hernandez83@example.com,2025-03-15,Email,,Seattle,United States
+CUST00286,James,Brown,james.brown61@example.com,2024-01-22,Referral,,Chicago,United States
+CUST00287,Michael,Martin,michael.martin68@example.com,2025-12-07,Referral,,Los Angeles,United States
+CUST00288,Lucas,Ramirez,lucas.ramirez23@example.com,2024-09-06,Meta Ads,,Seattle,United States
+CUST00289,Harper,Williams,harper.williams60@example.com,2024-11-13,Organic,,Houston,United States
+CUST00290,Mia,Harris,mia.harris31@example.com,2024-03-19,Meta Ads,,Los Angeles,United States
+CUST00291,Harper,Taylor,harper.taylor34@example.com,2026-03-05,Meta Ads,,Chicago,United States
+CUST00292,Elijah,Brown,elijah.brown28@example.com,2024-09-19,Google Ads,,Denver,United States
+CUST00293,Ava,Harris,ava.harris93@example.com,2024-03-18,Google Ads,,Boston,United States
+CUST00294,Amelia,Harris,amelia.harris82@example.com,2026-02-17,Email,,Denver,United States
+CUST00295,Abigail,Lee,abigail.lee89@example.com,2024-11-26,Organic,,San Francisco,United States
+CUST00296,Ava,Anderson,ava.anderson18@example.com,2025-04-25,Meta Ads,,Miami,United States
+CUST00297,Michael,Rodriguez,michael.rodriguez85@example.com,2024-02-27,Meta Ads,,Los Angeles,United States
+CUST00298,James,Anderson,james.anderson67@example.com,2024-02-08,Google Ads,,Miami,United States
+CUST00299,Olivia,Lee,olivia.lee21@example.com,2025-09-21,Email,,Seattle,United States
+CUST00300,Amelia,Jackson,amelia.jackson80@example.com,2026-03-21,Organic,,New York,United States
+CUST00301,Amelia,Robinson,amelia.robinson83@example.com,2025-10-29,Google Ads,,Denver,United States
+CUST00302,Mason,Taylor,mason.taylor29@example.com,2024-03-04,Meta Ads,,San Francisco,United States
+CUST00303,Emily,Williams,emily.williams74@example.com,2025-10-23,Google Ads,,Houston,United States
+CUST00304,Emily,Anderson,emily.anderson66@example.com,2025-06-20,Meta Ads,,Chicago,United States
+CUST00305,Benjamin,Lopez,benjamin.lopez46@example.com,2025-01-31,Meta Ads,,San Francisco,United States
+CUST00306,Henry,Martin,henry.martin16@example.com,2026-03-19,Email,,San Francisco,United States
+CUST00307,Olivia,Hernandez,olivia.hernandez22@example.com,2025-07-25,Email,,Miami,United States
+CUST00308,Isabella,White,isabella.white94@example.com,2025-09-09,Organic,,San Francisco,United States
+CUST00309,Olivia,Jackson,olivia.jackson94@example.com,2024-05-24,Referral,,Miami,United States
+CUST00310,Abigail,Thompson,abigail.thompson94@example.com,2025-02-05,Google Ads,,Los Angeles,United States
+CUST00311,James,Moore,james.moore58@example.com,2025-10-20,Organic,,Chicago,United States
+CUST00312,Henry,Thompson,henry.thompson97@example.com,2025-06-23,Google Ads,,Seattle,United States
+CUST00313,Harper,Lopez,harper.lopez12@example.com,2025-01-06,Meta Ads,,Houston,United States
+CUST00314,Mia,Harris,mia.harris72@example.com,2024-07-15,Google Ads,,Chicago,United States
+CUST00315,Ava,Williams,ava.williams47@example.com,2026-03-18,Google Ads,,Austin,United States
+CUST00316,Sofia,White,sofia.white77@example.com,2024-02-08,Email,,Denver,United States
+CUST00317,Ava,Martin,ava.martin58@example.com,2024-06-06,Google Ads,,Denver,United States
+CUST00318,Michael,Lewis,michael.lewis31@example.com,2026-01-08,Meta Ads,,Seattle,United States
+CUST00319,Benjamin,Perez,benjamin.perez40@example.com,2025-03-30,Email,,Boston,United States
+CUST00320,Elijah,Moore,elijah.moore40@example.com,2024-11-12,Referral,,Boston,United States
+CUST00321,Avery,Clark,avery.clark34@example.com,2025-01-11,Email,,Denver,United States
+CUST00322,Amelia,Anderson,amelia.anderson46@example.com,2026-03-07,Meta Ads,,Austin,United States
+CUST00323,Lucas,Garcia,lucas.garcia35@example.com,2025-09-11,Google Ads,,Miami,United States
+CUST00324,Liam,Lee,liam.lee71@example.com,2025-01-15,Email,,Los Angeles,United States
+CUST00325,Emily,Ramirez,emily.ramirez76@example.com,2024-05-07,Google Ads,,Chicago,United States
+CUST00326,Isabella,Anderson,isabella.anderson75@example.com,2024-05-30,Organic,,Los Angeles,United States
+CUST00327,Logan,Davis,logan.davis67@example.com,2024-12-23,Referral,,Seattle,United States
+CUST00328,Liam,Gonzalez,liam.gonzalez74@example.com,2025-01-17,Google Ads,,Los Angeles,United States
+CUST00329,Benjamin,Davis,benjamin.davis13@example.com,2024-11-22,Referral,,San Francisco,United States
+CUST00330,Michael,Jones,michael.jones27@example.com,2024-02-09,Google Ads,,Boston,United States
+CUST00331,Emily,Clark,emily.clark27@example.com,2026-02-16,Organic,,Boston,United States
+CUST00332,Alexander,Smith,alexander.smith20@example.com,2024-01-20,Google Ads,,Chicago,United States
+CUST00333,Ethan,White,ethan.white87@example.com,2025-06-24,Meta Ads,,Miami,United States
+CUST00334,Elijah,Martinez,elijah.martinez25@example.com,2024-02-18,Google Ads,,Denver,United States
+CUST00335,Amelia,Williams,amelia.williams24@example.com,2025-05-26,Email,,New York,United States
+CUST00336,Abigail,Taylor,abigail.taylor83@example.com,2024-09-04,Organic,,Miami,United States
+CUST00337,Lucas,Smith,lucas.smith88@example.com,2024-12-27,Google Ads,,Seattle,United States
+CUST00338,Oliver,Perez,oliver.perez95@example.com,2024-03-28,Meta Ads,,San Francisco,United States
+CUST00339,Olivia,Taylor,olivia.taylor79@example.com,2025-06-03,Organic,,Austin,United States
+CUST00340,Ethan,Smith,ethan.smith59@example.com,2025-04-26,Google Ads,,Seattle,United States
+CUST00341,Benjamin,Rodriguez,benjamin.rodriguez12@example.com,2024-12-31,Organic,,San Francisco,United States
+CUST00342,Elijah,White,elijah.white94@example.com,2025-10-05,Google Ads,,Denver,United States
+CUST00343,Jacob,Harris,jacob.harris52@example.com,2024-05-16,Google Ads,,Austin,United States
+CUST00344,Mia,Clark,mia.clark92@example.com,2024-06-28,Organic,,Boston,United States
+CUST00345,Emily,Thomas,emily.thomas90@example.com,2024-07-05,Organic,,Los Angeles,United States
+CUST00346,Emily,Harris,emily.harris68@example.com,2024-02-07,Google Ads,,New York,United States
+CUST00347,Michael,Miller,michael.miller15@example.com,2024-11-19,Referral,,Austin,United States
+CUST00348,Charlotte,Clark,charlotte.clark79@example.com,2025-04-29,Google Ads,,Houston,United States
+CUST00349,James,Lopez,james.lopez16@example.com,2025-11-02,Meta Ads,,Los Angeles,United States
+CUST00350,Michael,Lopez,michael.lopez65@example.com,2025-02-13,Organic,,Seattle,United States
+CUST00351,Mia,Garcia,mia.garcia73@example.com,2025-12-09,Meta Ads,,Austin,United States
+CUST00352,Isabella,Sanchez,isabella.sanchez20@example.com,2026-01-14,Meta Ads,,Seattle,United States
+CUST00353,Alexander,Clark,alexander.clark33@example.com,2025-07-12,Google Ads,,Los Angeles,United States
+CUST00354,Olivia,Hernandez,olivia.hernandez94@example.com,2024-10-29,Meta Ads,,Denver,United States
+CUST00355,Emily,Wilson,emily.wilson31@example.com,2025-12-07,Meta Ads,,Boston,United States
+CUST00356,Liam,White,liam.white55@example.com,2025-09-21,Referral,,Miami,United States
+CUST00357,Abigail,Sanchez,abigail.sanchez17@example.com,2024-03-17,Email,,Seattle,United States
+CUST00358,Benjamin,Taylor,benjamin.taylor96@example.com,2024-06-12,Referral,,Chicago,United States
+CUST00359,Daniel,Martin,daniel.martin96@example.com,2026-03-11,Meta Ads,,Chicago,United States
+CUST00360,Olivia,Davis,olivia.davis92@example.com,2025-01-10,Meta Ads,,Denver,United States
+CUST00361,Liam,Martin,liam.martin29@example.com,2025-11-26,Meta Ads,,San Francisco,United States
+CUST00362,Benjamin,Anderson,benjamin.anderson19@example.com,2025-08-10,Google Ads,,San Francisco,United States
+CUST00363,Charlotte,Hernandez,charlotte.hernandez93@example.com,2024-10-12,Google Ads,,Los Angeles,United States
+CUST00364,Emma,White,emma.white33@example.com,2025-05-26,Meta Ads,,Austin,United States
+CUST00365,Noah,Rodriguez,noah.rodriguez43@example.com,2025-12-21,Meta Ads,,Denver,United States
+CUST00366,James,Thompson,james.thompson72@example.com,2024-07-23,Google Ads,,Los Angeles,United States
+CUST00367,Amelia,Garcia,amelia.garcia66@example.com,2024-03-30,Organic,,San Francisco,United States
+CUST00368,Henry,Lopez,henry.lopez18@example.com,2025-07-17,Meta Ads,,Miami,United States
+CUST00369,Daniel,Garcia,daniel.garcia99@example.com,2025-10-15,Google Ads,,San Francisco,United States
+CUST00370,Harper,Davis,harper.davis25@example.com,2024-07-24,Organic,,Houston,United States
+CUST00371,Michael,Thomas,michael.thomas13@example.com,2025-01-04,Email,,San Francisco,United States
+CUST00372,Amelia,Sanchez,amelia.sanchez80@example.com,2024-05-12,Email,,Los Angeles,United States
+CUST00373,Olivia,Martinez,olivia.martinez60@example.com,2026-01-04,Organic,,Austin,United States
+CUST00374,Lucas,Harris,lucas.harris62@example.com,2025-08-11,Google Ads,,San Francisco,United States
+CUST00375,Abigail,Williams,abigail.williams67@example.com,2025-04-22,Email,,San Francisco,United States
+CUST00376,Ava,Lewis,ava.lewis80@example.com,2025-10-17,Email,,Chicago,United States
+CUST00377,Lucas,Taylor,lucas.taylor17@example.com,2024-05-07,Meta Ads,,Miami,United States
+CUST00378,Oliver,Garcia,oliver.garcia51@example.com,2025-12-27,Google Ads,,Austin,United States
+CUST00379,Avery,Martinez,avery.martinez20@example.com,2024-09-13,Google Ads,,Austin,United States
+CUST00380,Isabella,Jones,isabella.jones90@example.com,2024-11-06,Email,,Los Angeles,United States
+CUST00381,Harper,Lee,harper.lee31@example.com,2025-08-29,Referral,,Chicago,United States
+CUST00382,Oliver,Perez,oliver.perez89@example.com,2026-01-07,Referral,,San Francisco,United States
+CUST00383,Sofia,Robinson,sofia.robinson82@example.com,2024-02-12,Organic,,New York,United States
+CUST00384,Olivia,Johnson,olivia.johnson92@example.com,2026-02-28,Email,,Houston,United States
+CUST00385,Elizabeth,Jackson,elizabeth.jackson63@example.com,2025-09-24,Email,,Boston,United States
+CUST00386,Avery,Lee,avery.lee79@example.com,2024-10-23,Email,,Miami,United States
+CUST00387,Mason,Davis,mason.davis97@example.com,2025-02-19,Google Ads,,Los Angeles,United States
+CUST00388,Emily,Johnson,emily.johnson30@example.com,2025-03-26,Meta Ads,,Boston,United States
+CUST00389,Sophia,Hernandez,sophia.hernandez87@example.com,2024-05-27,Meta Ads,,San Francisco,United States
+CUST00390,Jacob,Ramirez,jacob.ramirez54@example.com,2025-02-12,Google Ads,,San Francisco,United States
+CUST00391,Harper,Moore,harper.moore23@example.com,2024-11-22,Google Ads,,Los Angeles,United States
+CUST00392,Isabella,Anderson,isabella.anderson41@example.com,2024-05-24,Google Ads,,Miami,United States
+CUST00393,Charlotte,Ramirez,charlotte.ramirez88@example.com,2025-03-04,Google Ads,,Chicago,United States
+CUST00394,Sofia,Hernandez,sofia.hernandez83@example.com,2026-01-08,Meta Ads,,Chicago,United States
+CUST00395,Mason,Taylor,mason.taylor69@example.com,2025-05-25,Organic,,Boston,United States
+CUST00396,Emma,Williams,emma.williams60@example.com,2025-06-01,Meta Ads,,Houston,United States
+CUST00397,Sophia,Jackson,sophia.jackson55@example.com,2024-02-19,Google Ads,,Boston,United States
+CUST00398,Alexander,Lewis,alexander.lewis93@example.com,2025-11-19,Meta Ads,,Austin,United States
+CUST00399,Emma,Ramirez,emma.ramirez23@example.com,2025-03-17,Google Ads,,Miami,United States
+CUST00400,Jacob,Lopez,jacob.lopez61@example.com,2025-01-09,Google Ads,,New York,United States
+CUST00401,Evelyn,Moore,evelyn.moore34@example.com,2025-01-06,Email,,Los Angeles,United States
+CUST00402,Charlotte,Taylor,charlotte.taylor67@example.com,2026-02-21,Meta Ads,,Denver,United States
+CUST00403,Henry,Martin,henry.martin25@example.com,2024-05-11,Referral,,Seattle,United States
+CUST00404,Benjamin,Sanchez,benjamin.sanchez53@example.com,2025-07-25,Referral,,Chicago,United States
+CUST00405,Sophia,Martin,sophia.martin75@example.com,2025-02-15,Meta Ads,,New York,United States
+CUST00406,Liam,Jones,liam.jones52@example.com,2025-04-30,Meta Ads,,Chicago,United States
+CUST00407,Alexander,Lewis,alexander.lewis75@example.com,2024-05-23,Meta Ads,,Denver,United States
+CUST00408,Mia,Garcia,mia.garcia60@example.com,2025-09-23,Organic,,Miami,United States
+CUST00409,Evelyn,Hernandez,evelyn.hernandez74@example.com,2025-06-05,Meta Ads,,Denver,United States
+CUST00410,James,Thomas,james.thomas12@example.com,2025-01-12,Meta Ads,,Los Angeles,United States
+CUST00411,Lucas,Jackson,lucas.jackson49@example.com,2026-03-26,Organic,,New York,United States
+CUST00412,Alexander,Thomas,alexander.thomas43@example.com,2025-11-02,Organic,,Denver,United States
+CUST00413,Evelyn,Davis,evelyn.davis16@example.com,2025-08-20,Meta Ads,,Austin,United States
+CUST00414,Abigail,White,abigail.white89@example.com,2026-03-04,Organic,,Chicago,United States
+CUST00415,Sofia,Perez,sofia.perez41@example.com,2024-02-02,Email,,Los Angeles,United States
+CUST00416,Sophia,Smith,sophia.smith66@example.com,2024-11-17,Meta Ads,,Seattle,United States
+CUST00417,Emily,Miller,emily.miller62@example.com,2025-05-28,Organic,,Boston,United States
+CUST00418,Daniel,Ramirez,daniel.ramirez17@example.com,2025-12-23,Google Ads,,Houston,United States
+CUST00419,Ethan,Hernandez,ethan.hernandez94@example.com,2025-05-04,Meta Ads,,San Francisco,United States
+CUST00420,Oliver,Anderson,oliver.anderson78@example.com,2024-12-16,Meta Ads,,Miami,United States
+CUST00421,Alexander,Thomas,alexander.thomas34@example.com,2024-09-09,Google Ads,,Miami,United States
+CUST00422,Elijah,Martinez,elijah.martinez46@example.com,2025-12-22,Google Ads,,Boston,United States
+CUST00423,Mia,Thomas,mia.thomas54@example.com,2025-07-27,Referral,,Miami,United States
+CUST00424,James,Brown,james.brown83@example.com,2025-11-23,Meta Ads,,Seattle,United States
+CUST00425,Sofia,Lopez,sofia.lopez28@example.com,2024-10-24,Google Ads,,Los Angeles,United States
+CUST00426,Benjamin,Robinson,benjamin.robinson66@example.com,2025-11-02,Google Ads,,Boston,United States
+CUST00427,Sophia,Miller,sophia.miller78@example.com,2024-10-04,Referral,,Miami,United States
+CUST00428,Ava,Brown,ava.brown88@example.com,2026-01-28,Email,,Houston,United States
+CUST00429,Liam,Perez,liam.perez77@example.com,2024-08-19,Email,,New York,United States
+CUST00430,Noah,Wilson,noah.wilson52@example.com,2026-01-04,Meta Ads,,Chicago,United States
+CUST00431,Emma,Moore,emma.moore30@example.com,2025-02-20,Email,,Boston,United States
+CUST00432,Mason,Lee,mason.lee35@example.com,2026-02-13,Referral,,San Francisco,United States
+CUST00433,James,Lee,james.lee17@example.com,2026-02-26,Google Ads,,Denver,United States
+CUST00434,Elijah,Moore,elijah.moore14@example.com,2024-06-28,Meta Ads,,Chicago,United States
+CUST00435,Logan,Robinson,logan.robinson14@example.com,2025-02-10,Organic,,Chicago,United States
+CUST00436,Logan,White,logan.white47@example.com,2024-02-08,Google Ads,,Denver,United States
+CUST00437,Alexander,Brown,alexander.brown52@example.com,2024-10-18,Meta Ads,,Austin,United States
+CUST00438,Harper,Thomas,harper.thomas27@example.com,2025-05-31,Meta Ads,,Houston,United States
+CUST00439,Michael,Brown,michael.brown52@example.com,2024-06-15,Organic,,Miami,United States
+CUST00440,Emily,Garcia,emily.garcia11@example.com,2026-01-24,Meta Ads,,Miami,United States
+CUST00441,Evelyn,Perez,evelyn.perez34@example.com,2024-06-28,Email,,Seattle,United States
+CUST00442,Sofia,Wilson,sofia.wilson75@example.com,2024-12-01,Google Ads,,Los Angeles,United States
+CUST00443,Oliver,Jones,oliver.jones71@example.com,2024-11-27,Referral,,New York,United States
+CUST00444,Isabella,Gonzalez,isabella.gonzalez40@example.com,2025-04-02,Organic,,San Francisco,United States
+CUST00445,James,Jackson,james.jackson83@example.com,2024-01-12,Google Ads,,San Francisco,United States
+CUST00446,Emily,Davis,emily.davis17@example.com,2025-11-14,Google Ads,,Miami,United States
+CUST00447,Oliver,Gonzalez,oliver.gonzalez97@example.com,2025-05-29,Referral,,Miami,United States
+CUST00448,Emily,Brown,emily.brown91@example.com,2024-10-29,Meta Ads,,Houston,United States
+CUST00449,Elijah,Jones,elijah.jones71@example.com,2024-06-05,Meta Ads,,Denver,United States
+CUST00450,Benjamin,Wilson,benjamin.wilson99@example.com,2025-07-16,Referral,,Austin,United States
+CUST00451,Michael,Perez,michael.perez37@example.com,2026-02-19,Google Ads,,Denver,United States
+CUST00452,Daniel,Sanchez,daniel.sanchez20@example.com,2025-06-22,Meta Ads,,San Francisco,United States
+CUST00453,Olivia,Robinson,olivia.robinson82@example.com,2024-04-24,Google Ads,,Austin,United States
+CUST00454,Avery,Taylor,avery.taylor35@example.com,2025-08-09,Meta Ads,,Chicago,United States
+CUST00455,Mia,Ramirez,mia.ramirez76@example.com,2025-03-28,Google Ads,,Houston,United States
+CUST00456,Emily,Jackson,emily.jackson72@example.com,2024-04-03,Organic,,Boston,United States
+CUST00457,Michael,Johnson,michael.johnson68@example.com,2024-05-15,Meta Ads,,Boston,United States
+CUST00458,Evelyn,Johnson,evelyn.johnson81@example.com,2025-04-18,Email,,Miami,United States
+CUST00459,Jacob,Smith,jacob.smith60@example.com,2024-09-17,Organic,,Houston,United States
+CUST00460,Evelyn,Williams,evelyn.williams15@example.com,2025-03-09,Meta Ads,,Los Angeles,United States
+CUST00461,Ethan,Johnson,ethan.johnson18@example.com,2025-04-28,Google Ads,,Seattle,United States
+CUST00462,Oliver,Harris,oliver.harris27@example.com,2026-02-23,Email,,Seattle,United States
+CUST00463,Benjamin,Lewis,benjamin.lewis58@example.com,2025-04-04,Organic,,Seattle,United States
+CUST00464,Charlotte,Williams,charlotte.williams97@example.com,2025-11-08,Organic,,Chicago,United States
+CUST00465,Abigail,Ramirez,abigail.ramirez54@example.com,2024-05-01,Google Ads,,Austin,United States
+CUST00466,Charlotte,Taylor,charlotte.taylor26@example.com,2026-01-15,Referral,,New York,United States
+CUST00467,Elizabeth,Smith,elizabeth.smith48@example.com,2025-04-19,Email,,Austin,United States
+CUST00468,Lucas,Moore,lucas.moore58@example.com,2024-08-23,Google Ads,,San Francisco,United States
+CUST00469,Ava,Rodriguez,ava.rodriguez34@example.com,2026-01-12,Organic,,New York,United States
+CUST00470,Michael,Perez,michael.perez63@example.com,2025-09-21,Organic,,New York,United States
+CUST00471,Elijah,Miller,elijah.miller18@example.com,2024-04-13,Email,,Boston,United States
+CUST00472,Alexander,Perez,alexander.perez16@example.com,2024-09-07,Organic,,Seattle,United States
+CUST00473,Amelia,Davis,amelia.davis79@example.com,2024-08-10,Organic,,New York,United States
+CUST00474,Ava,Taylor,ava.taylor47@example.com,2024-08-27,Organic,,Denver,United States
+CUST00475,Mia,Jackson,mia.jackson86@example.com,2026-03-02,Email,,San Francisco,United States
+CUST00476,Elijah,Martinez,elijah.martinez28@example.com,2025-11-07,Meta Ads,,Seattle,United States
+CUST00477,James,Rodriguez,james.rodriguez17@example.com,2025-07-24,Referral,,Chicago,United States
+CUST00478,Abigail,Perez,abigail.perez64@example.com,2025-07-23,Meta Ads,,San Francisco,United States
+CUST00479,Abigail,Perez,abigail.perez58@example.com,2026-03-15,Meta Ads,,Seattle,United States
+CUST00480,Lucas,Jones,lucas.jones48@example.com,2025-01-20,Google Ads,,Austin,United States
+CUST00481,Mason,Davis,mason.davis38@example.com,2024-11-03,Organic,,Chicago,United States
+CUST00482,Michael,Anderson,michael.anderson17@example.com,2025-07-29,Meta Ads,,Seattle,United States
+CUST00483,Ethan,Taylor,ethan.taylor27@example.com,2025-02-01,Google Ads,,Houston,United States
+CUST00484,Mia,Lee,mia.lee20@example.com,2025-04-05,Organic,,Los Angeles,United States
+CUST00485,Ethan,White,ethan.white34@example.com,2024-02-22,Google Ads,,Denver,United States
+CUST00486,Alexander,Johnson,alexander.johnson19@example.com,2024-07-11,Organic,,Denver,United States
+CUST00487,Jacob,Perez,jacob.perez81@example.com,2024-08-10,Meta Ads,,San Francisco,United States
+CUST00488,James,Robinson,james.robinson11@example.com,2024-08-04,Referral,,Los Angeles,United States
+CUST00489,Jacob,Harris,jacob.harris71@example.com,2024-09-05,Email,,Houston,United States
+CUST00490,Charlotte,Robinson,charlotte.robinson40@example.com,2025-07-19,Meta Ads,,Miami,United States
+CUST00491,Charlotte,Anderson,charlotte.anderson78@example.com,2025-10-26,Meta Ads,,Miami,United States
+CUST00492,Benjamin,Taylor,benjamin.taylor73@example.com,2025-04-22,Google Ads,,Boston,United States
+CUST00493,Elizabeth,Clark,elizabeth.clark50@example.com,2024-07-27,Meta Ads,,Seattle,United States
+CUST00494,Liam,Jackson,liam.jackson38@example.com,2026-01-29,Google Ads,,Miami,United States
+CUST00495,Ethan,Robinson,ethan.robinson84@example.com,2025-08-16,Organic,,Miami,United States
+CUST00496,Ava,Miller,ava.miller52@example.com,2024-08-23,Meta Ads,,Houston,United States
+CUST00497,Mason,Moore,mason.moore93@example.com,2025-12-02,Meta Ads,,Boston,United States
+CUST00498,Jacob,Lee,jacob.lee72@example.com,2025-04-16,Google Ads,,San Francisco,United States
+CUST00499,Oliver,Jones,oliver.jones79@example.com,2025-05-15,Google Ads,,Austin,United States
+CUST00500,Abigail,Johnson,abigail.johnson77@example.com,2024-02-04,Organic,,Los Angeles,United States
+CUST00501,Sofia,Perez,sofia.perez16@example.com,2026-02-21,Google Ads,,Chicago,United States
+CUST00502,Sofia,Lee,sofia.lee39@example.com,2024-03-10,Organic,,New York,United States
+CUST00503,Sophia,Taylor,sophia.taylor68@example.com,2025-01-17,Google Ads,,Denver,United States
+CUST00504,Logan,Thomas,logan.thomas94@example.com,2025-05-14,Google Ads,,Austin,United States
+CUST00505,Ethan,Wilson,ethan.wilson11@example.com,2024-01-18,Meta Ads,,Miami,United States
+CUST00506,Ethan,Martinez,ethan.martinez12@example.com,2025-05-29,Organic,,Seattle,United States
+CUST00507,Michael,Robinson,michael.robinson32@example.com,2024-04-19,Referral,,Austin,United States
+CUST00508,Ava,Davis,ava.davis34@example.com,2025-09-26,Meta Ads,,San Francisco,United States
+CUST00509,Isabella,Sanchez,isabella.sanchez60@example.com,2024-03-21,Meta Ads,,Seattle,United States
+CUST00510,Amelia,Jackson,amelia.jackson41@example.com,2025-12-14,Google Ads,,Los Angeles,United States
+CUST00511,Abigail,Ramirez,abigail.ramirez93@example.com,2026-02-16,Google Ads,,Seattle,United States
+CUST00512,Charlotte,Gonzalez,charlotte.gonzalez80@example.com,2025-05-02,Google Ads,,New York,United States
+CUST00513,Emily,Garcia,emily.garcia20@example.com,2025-05-26,Organic,,San Francisco,United States
+CUST00514,Evelyn,Ramirez,evelyn.ramirez22@example.com,2025-06-24,Referral,,Houston,United States
+CUST00515,Sophia,Lewis,sophia.lewis98@example.com,2025-08-03,Meta Ads,,New York,United States
+CUST00516,Logan,Williams,logan.williams97@example.com,2024-10-14,Organic,,Denver,United States
+CUST00517,Henry,Johnson,henry.johnson32@example.com,2024-11-18,Google Ads,,Houston,United States
+CUST00518,Evelyn,Jones,evelyn.jones60@example.com,2024-03-19,Google Ads,,Denver,United States
+CUST00519,Elijah,Jackson,elijah.jackson59@example.com,2025-11-24,Organic,,San Francisco,United States
+CUST00520,Charlotte,Harris,charlotte.harris27@example.com,2026-03-20,Referral,,Los Angeles,United States
+CUST00521,Harper,White,harper.white54@example.com,2024-02-24,Google Ads,,Houston,United States
+CUST00522,Sofia,Williams,sofia.williams53@example.com,2025-09-11,Organic,,Denver,United States
+CUST00523,Charlotte,Harris,charlotte.harris51@example.com,2024-01-31,Email,,Boston,United States
+CUST00524,Mason,Davis,mason.davis55@example.com,2025-07-20,Referral,,Seattle,United States
+CUST00525,Oliver,Perez,oliver.perez84@example.com,2025-11-07,Meta Ads,,Denver,United States
+CUST00526,James,Sanchez,james.sanchez41@example.com,2025-12-31,Google Ads,,Miami,United States
+CUST00527,Ava,Gonzalez,ava.gonzalez91@example.com,2024-06-06,Organic,,San Francisco,United States
+CUST00528,Benjamin,Brown,benjamin.brown21@example.com,2024-01-06,Referral,,Boston,United States
+CUST00529,Benjamin,Harris,benjamin.harris44@example.com,2024-04-14,Google Ads,,Chicago,United States
+CUST00530,Lucas,Anderson,lucas.anderson81@example.com,2025-07-22,Meta Ads,,Los Angeles,United States
+CUST00531,Emma,Williams,emma.williams55@example.com,2025-07-21,Google Ads,,Denver,United States
+CUST00532,Michael,Hernandez,michael.hernandez59@example.com,2024-01-13,Google Ads,,Seattle,United States
+CUST00533,Elizabeth,Williams,elizabeth.williams81@example.com,2024-09-05,Email,,Chicago,United States
+CUST00534,Henry,Gonzalez,henry.gonzalez31@example.com,2024-05-22,Google Ads,,Miami,United States
+CUST00535,Mason,Jones,mason.jones18@example.com,2024-06-20,Meta Ads,,Seattle,United States
+CUST00536,James,Thomas,james.thomas19@example.com,2025-01-04,Google Ads,,Houston,United States
+CUST00537,Jacob,Lee,jacob.lee73@example.com,2025-08-31,Email,,Boston,United States
+CUST00538,Noah,Jones,noah.jones48@example.com,2024-01-07,Referral,,San Francisco,United States
+CUST00539,Sofia,Martin,sofia.martin58@example.com,2024-12-03,Meta Ads,,Seattle,United States
+CUST00540,Sofia,Clark,sofia.clark93@example.com,2025-08-31,Google Ads,,San Francisco,United States
+CUST00541,Alexander,Thompson,alexander.thompson35@example.com,2025-05-05,Meta Ads,,Seattle,United States
+CUST00542,Mia,Martinez,mia.martinez98@example.com,2025-10-10,Meta Ads,,Denver,United States
+CUST00543,Michael,Davis,michael.davis51@example.com,2025-01-20,Google Ads,,Seattle,United States
+CUST00544,Benjamin,Brown,benjamin.brown82@example.com,2024-07-23,Email,,Austin,United States
+CUST00545,Oliver,Perez,oliver.perez80@example.com,2024-01-28,Referral,,Boston,United States
+CUST00546,Emily,Miller,emily.miller66@example.com,2026-03-27,Google Ads,,Los Angeles,United States
+CUST00547,Sofia,Ramirez,sofia.ramirez62@example.com,2025-11-20,Meta Ads,,Miami,United States
+CUST00548,Elijah,Rodriguez,elijah.rodriguez94@example.com,2024-06-06,Organic,,Seattle,United States
+CUST00549,Olivia,Anderson,olivia.anderson86@example.com,2025-05-05,Email,,Austin,United States
+CUST00550,Harper,Robinson,harper.robinson98@example.com,2025-03-04,Meta Ads,,San Francisco,United States
+CUST00551,Emily,Lewis,emily.lewis78@example.com,2025-08-31,Email,,Los Angeles,United States
+CUST00552,Noah,Harris,noah.harris41@example.com,2025-11-04,Email,,Chicago,United States
+CUST00553,Abigail,Martin,abigail.martin15@example.com,2025-07-30,Referral,,Seattle,United States
+CUST00554,Elizabeth,Hernandez,elizabeth.hernandez65@example.com,2024-04-18,Google Ads,,Miami,United States
+CUST00555,Elijah,Taylor,elijah.taylor76@example.com,2025-07-25,Email,,Denver,United States
+CUST00556,Elijah,Anderson,elijah.anderson57@example.com,2025-02-04,Meta Ads,,Denver,United States
+CUST00557,Emily,Taylor,emily.taylor29@example.com,2024-12-19,Referral,,Boston,United States
+CUST00558,Noah,Martinez,noah.martinez63@example.com,2024-03-28,Google Ads,,Chicago,United States
+CUST00559,Benjamin,Martinez,benjamin.martinez53@example.com,2025-04-11,Organic,,Austin,United States
+CUST00560,Mason,Lopez,mason.lopez70@example.com,2024-04-09,Meta Ads,,Boston,United States
+CUST00561,Mia,Williams,mia.williams48@example.com,2024-02-15,Organic,,Los Angeles,United States
+CUST00562,Emma,Ramirez,emma.ramirez53@example.com,2025-10-25,Google Ads,,Chicago,United States
+CUST00563,Logan,White,logan.white41@example.com,2025-06-12,Google Ads,,Chicago,United States
+CUST00564,Mia,Moore,mia.moore64@example.com,2025-04-18,Google Ads,,Seattle,United States
+CUST00565,Abigail,Garcia,abigail.garcia33@example.com,2025-10-17,Email,,Seattle,United States
+CUST00566,Emma,White,emma.white88@example.com,2024-07-21,Meta Ads,,Seattle,United States
+CUST00567,Charlotte,Smith,charlotte.smith37@example.com,2024-07-29,Google Ads,,Los Angeles,United States
+CUST00568,Evelyn,Brown,evelyn.brown78@example.com,2024-07-10,Meta Ads,,Houston,United States
+CUST00569,Amelia,Brown,amelia.brown43@example.com,2025-11-17,Organic,,Austin,United States
+CUST00570,Abigail,Hernandez,abigail.hernandez86@example.com,2025-02-01,Email,,Denver,United States
+CUST00571,Noah,Lopez,noah.lopez55@example.com,2025-04-13,Email,,Miami,United States
+CUST00572,Logan,Martin,logan.martin85@example.com,2024-03-27,Email,,San Francisco,United States
+CUST00573,Noah,Davis,noah.davis49@example.com,2024-04-29,Google Ads,,Chicago,United States
+CUST00574,Harper,Gonzalez,harper.gonzalez63@example.com,2025-09-02,Google Ads,,Seattle,United States
+CUST00575,Lucas,Garcia,lucas.garcia72@example.com,2025-10-12,Meta Ads,,Chicago,United States
+CUST00576,Ethan,Garcia,ethan.garcia72@example.com,2024-10-22,Google Ads,,San Francisco,United States
+CUST00577,Sofia,Anderson,sofia.anderson89@example.com,2024-02-24,Organic,,New York,United States
+CUST00578,Mason,Jones,mason.jones34@example.com,2025-01-28,Referral,,Austin,United States
+CUST00579,Abigail,Thomas,abigail.thomas62@example.com,2025-12-02,Meta Ads,,Boston,United States
+CUST00580,Mason,Garcia,mason.garcia20@example.com,2025-08-01,Google Ads,,Houston,United States
+CUST00581,James,Johnson,james.johnson45@example.com,2024-08-18,Meta Ads,,Chicago,United States
+CUST00582,Elizabeth,Anderson,elizabeth.anderson82@example.com,2026-01-30,Organic,,Boston,United States
+CUST00583,Ethan,Taylor,ethan.taylor24@example.com,2025-08-09,Google Ads,,Austin,United States
+CUST00584,Sofia,Lopez,sofia.lopez79@example.com,2026-02-13,Google Ads,,Boston,United States
+CUST00585,Ethan,Miller,ethan.miller64@example.com,2024-04-14,Organic,,Houston,United States
+CUST00586,James,Ramirez,james.ramirez14@example.com,2025-04-05,Google Ads,,Los Angeles,United States
+CUST00587,Amelia,Ramirez,amelia.ramirez25@example.com,2026-03-05,Organic,,Houston,United States
+CUST00588,Michael,White,michael.white85@example.com,2025-12-06,Meta Ads,,Denver,United States
+CUST00589,Abigail,Wilson,abigail.wilson31@example.com,2025-09-22,Google Ads,,Houston,United States
+CUST00590,Sofia,Miller,sofia.miller17@example.com,2025-08-06,Meta Ads,,Miami,United States
+CUST00591,Alexander,Moore,alexander.moore31@example.com,2024-11-27,Referral,,Miami,United States
+CUST00592,James,Jackson,james.jackson44@example.com,2025-06-10,Referral,,Los Angeles,United States
+CUST00593,Ava,Harris,ava.harris62@example.com,2024-03-01,Referral,,Chicago,United States
+CUST00594,Emily,Ramirez,emily.ramirez26@example.com,2024-09-12,Google Ads,,San Francisco,United States
+CUST00595,Sofia,Davis,sofia.davis96@example.com,2025-02-06,Meta Ads,,Denver,United States
+CUST00596,Abigail,Rodriguez,abigail.rodriguez90@example.com,2025-02-28,Meta Ads,,Los Angeles,United States
+CUST00597,Abigail,Sanchez,abigail.sanchez21@example.com,2025-02-16,Meta Ads,,Miami,United States
+CUST00598,Emily,Robinson,emily.robinson57@example.com,2025-04-10,Referral,,San Francisco,United States
+CUST00599,Evelyn,Smith,evelyn.smith21@example.com,2026-01-18,Referral,,San Francisco,United States
+CUST00600,Daniel,Williams,daniel.williams78@example.com,2025-02-11,Google Ads,,Seattle,United States
+CUST00601,Sofia,Miller,sofia.miller73@example.com,2024-10-01,Meta Ads,,Miami,United States
+CUST00602,Mia,Moore,mia.moore83@example.com,2024-05-13,Email,,Boston,United States
+CUST00603,Michael,Hernandez,michael.hernandez97@example.com,2026-02-19,Google Ads,,Los Angeles,United States
+CUST00604,Abigail,Sanchez,abigail.sanchez68@example.com,2024-01-17,Google Ads,,Chicago,United States
+CUST00605,Amelia,Anderson,amelia.anderson10@example.com,2025-03-14,Google Ads,,Chicago,United States
+CUST00606,Avery,Lee,avery.lee48@example.com,2024-06-11,Organic,,Miami,United States
+CUST00607,Olivia,Lee,olivia.lee56@example.com,2024-09-13,Google Ads,,Chicago,United States
+CUST00608,Liam,Gonzalez,liam.gonzalez90@example.com,2024-11-08,Organic,,Houston,United States
+CUST00609,Lucas,Lee,lucas.lee21@example.com,2025-12-21,Google Ads,,Houston,United States
+CUST00610,Mason,Williams,mason.williams26@example.com,2025-08-30,Google Ads,,Boston,United States
+CUST00611,Emma,Smith,emma.smith99@example.com,2024-12-17,Organic,,Seattle,United States
+CUST00612,Emily,Jones,emily.jones71@example.com,2024-03-13,Google Ads,,Los Angeles,United States
+CUST00613,Jacob,Sanchez,jacob.sanchez23@example.com,2024-04-15,Meta Ads,,Miami,United States
+CUST00614,Ava,Gonzalez,ava.gonzalez27@example.com,2025-10-18,Referral,,Chicago,United States
+CUST00615,Olivia,Taylor,olivia.taylor82@example.com,2024-01-09,Email,,Chicago,United States
+CUST00616,Amelia,Lopez,amelia.lopez37@example.com,2025-10-05,Organic,,Seattle,United States
+CUST00617,Alexander,Perez,alexander.perez66@example.com,2024-08-10,Google Ads,,Los Angeles,United States
+CUST00618,Ava,Harris,ava.harris25@example.com,2025-08-26,Organic,,San Francisco,United States
+CUST00619,Lucas,Hernandez,lucas.hernandez27@example.com,2024-09-10,Google Ads,,Los Angeles,United States
+CUST00620,Elijah,Moore,elijah.moore86@example.com,2025-09-06,Organic,,Miami,United States
+CUST00621,Elizabeth,Thompson,elizabeth.thompson13@example.com,2025-11-05,Organic,,Houston,United States
+CUST00622,Harper,Martin,harper.martin75@example.com,2024-07-12,Organic,,Miami,United States
+CUST00623,Abigail,Johnson,abigail.johnson40@example.com,2025-05-21,Meta Ads,,Houston,United States
+CUST00624,Mason,Lee,mason.lee86@example.com,2024-03-13,Meta Ads,,New York,United States
+CUST00625,Benjamin,Robinson,benjamin.robinson50@example.com,2024-05-15,Meta Ads,,Denver,United States
+CUST00626,Lucas,Lopez,lucas.lopez79@example.com,2025-11-30,Google Ads,,Boston,United States
+CUST00627,Elizabeth,Williams,elizabeth.williams12@example.com,2025-08-24,Google Ads,,Miami,United States
+CUST00628,Sophia,Johnson,sophia.johnson17@example.com,2026-03-19,Meta Ads,,Miami,United States
+CUST00629,Abigail,Thompson,abigail.thompson74@example.com,2026-02-24,Meta Ads,,Seattle,United States
+CUST00630,Olivia,Lee,olivia.lee78@example.com,2025-07-04,Email,,Miami,United States
+CUST00631,Olivia,Martinez,olivia.martinez20@example.com,2025-06-07,Referral,,Chicago,United States
+CUST00632,Ethan,Hernandez,ethan.hernandez60@example.com,2025-08-23,Email,,Los Angeles,United States
+CUST00633,James,Thompson,james.thompson65@example.com,2026-01-17,Referral,,Houston,United States
+CUST00634,Liam,Davis,liam.davis21@example.com,2025-03-20,Google Ads,,Denver,United States
+CUST00635,Alexander,Johnson,alexander.johnson49@example.com,2025-11-13,Organic,,Chicago,United States
+CUST00636,Noah,Smith,noah.smith27@example.com,2025-12-19,Google Ads,,Boston,United States
+CUST00637,Benjamin,Taylor,benjamin.taylor76@example.com,2026-03-12,Organic,,Miami,United States
+CUST00638,Oliver,Lopez,oliver.lopez26@example.com,2026-02-06,Organic,,Miami,United States
+CUST00639,Jacob,Lewis,jacob.lewis25@example.com,2026-02-28,Organic,,San Francisco,United States
+CUST00640,Michael,Wilson,michael.wilson44@example.com,2025-06-20,Google Ads,,Denver,United States
+CUST00641,Abigail,Williams,abigail.williams73@example.com,2025-04-11,Meta Ads,,New York,United States
+CUST00642,Mason,Ramirez,mason.ramirez82@example.com,2024-06-19,Meta Ads,,Miami,United States
+CUST00643,Elizabeth,Brown,elizabeth.brown83@example.com,2025-11-21,Organic,,Houston,United States
+CUST00644,Jacob,Taylor,jacob.taylor10@example.com,2024-02-15,Organic,,New York,United States
+CUST00645,Elijah,Johnson,elijah.johnson70@example.com,2025-01-07,Meta Ads,,Chicago,United States
+CUST00646,Oliver,Robinson,oliver.robinson14@example.com,2025-07-20,Organic,,Seattle,United States
+CUST00647,Elijah,Hernandez,elijah.hernandez41@example.com,2025-03-02,Referral,,San Francisco,United States
+CUST00648,Isabella,Clark,isabella.clark19@example.com,2025-08-08,Meta Ads,,Austin,United States
+CUST00649,Henry,Lewis,henry.lewis16@example.com,2024-07-02,Google Ads,,Austin,United States
+CUST00650,Liam,Gonzalez,liam.gonzalez18@example.com,2025-04-21,Organic,,Miami,United States
+CUST00651,Mia,Williams,mia.williams80@example.com,2025-04-12,Google Ads,,Houston,United States
+CUST00652,James,Jackson,james.jackson48@example.com,2026-01-27,Email,,Boston,United States
+CUST00653,Benjamin,Jackson,benjamin.jackson73@example.com,2026-03-02,Organic,,Austin,United States
+CUST00654,Elizabeth,Sanchez,elizabeth.sanchez41@example.com,2024-06-03,Google Ads,,Seattle,United States
+CUST00655,Emma,Davis,emma.davis79@example.com,2024-12-20,Email,,New York,United States
+CUST00656,Mia,Smith,mia.smith94@example.com,2025-01-20,Organic,,Miami,United States
+CUST00657,Noah,Miller,noah.miller77@example.com,2024-08-31,Meta Ads,,New York,United States
+CUST00658,Ava,Thompson,ava.thompson45@example.com,2024-04-05,Google Ads,,Houston,United States
+CUST00659,Avery,Ramirez,avery.ramirez76@example.com,2025-02-26,Organic,,San Francisco,United States
+CUST00660,Amelia,White,amelia.white20@example.com,2025-08-17,Google Ads,,Chicago,United States
+CUST00661,Abigail,Clark,abigail.clark60@example.com,2024-03-17,Email,,New York,United States
+CUST00662,Lucas,Perez,lucas.perez26@example.com,2024-08-30,Google Ads,,San Francisco,United States
+CUST00663,Logan,Sanchez,logan.sanchez60@example.com,2025-12-18,Organic,,San Francisco,United States
+CUST00664,Mia,Anderson,mia.anderson44@example.com,2024-08-27,Google Ads,,Houston,United States
+CUST00665,Ava,Harris,ava.harris84@example.com,2024-04-21,Google Ads,,Chicago,United States
+CUST00666,Amelia,Anderson,amelia.anderson50@example.com,2025-02-20,Google Ads,,San Francisco,United States
+CUST00667,Elizabeth,Miller,elizabeth.miller67@example.com,2024-11-11,Meta Ads,,Los Angeles,United States
+CUST00668,Olivia,Garcia,olivia.garcia97@example.com,2024-11-07,Organic,,Denver,United States
+CUST00669,Liam,Miller,liam.miller51@example.com,2024-05-31,Google Ads,,Houston,United States
+CUST00670,Benjamin,Gonzalez,benjamin.gonzalez75@example.com,2024-02-20,Email,,Miami,United States
+CUST00671,Sofia,Garcia,sofia.garcia13@example.com,2025-02-18,Organic,,Austin,United States
+CUST00672,Jacob,Moore,jacob.moore41@example.com,2024-04-06,Meta Ads,,Chicago,United States
+CUST00673,Noah,Smith,noah.smith17@example.com,2026-03-10,Referral,,Chicago,United States
+CUST00674,Sophia,Clark,sophia.clark61@example.com,2025-01-16,Email,,Los Angeles,United States
+CUST00675,Evelyn,Jackson,evelyn.jackson43@example.com,2024-03-17,Google Ads,,Los Angeles,United States
+CUST00676,Sophia,Lewis,sophia.lewis92@example.com,2025-03-30,Organic,,Los Angeles,United States
+CUST00677,Avery,Ramirez,avery.ramirez52@example.com,2024-05-05,Google Ads,,Boston,United States
+CUST00678,Liam,Garcia,liam.garcia83@example.com,2025-03-19,Organic,,Seattle,United States
+CUST00679,Mason,Smith,mason.smith58@example.com,2025-11-30,Meta Ads,,San Francisco,United States
+CUST00680,Sophia,Robinson,sophia.robinson33@example.com,2024-10-08,Google Ads,,Chicago,United States
+CUST00681,Liam,Martin,liam.martin89@example.com,2025-09-23,Google Ads,,Miami,United States
+CUST00682,Mason,Wilson,mason.wilson80@example.com,2025-05-05,Google Ads,,Miami,United States
+CUST00683,Charlotte,Jones,charlotte.jones63@example.com,2024-07-23,Email,,Austin,United States
+CUST00684,Elijah,Lee,elijah.lee79@example.com,2026-03-24,Google Ads,,Seattle,United States
+CUST00685,Michael,Thompson,michael.thompson55@example.com,2025-05-06,Meta Ads,,Boston,United States
+CUST00686,Benjamin,Robinson,benjamin.robinson82@example.com,2025-05-29,Meta Ads,,Miami,United States
+CUST00687,Oliver,Smith,oliver.smith50@example.com,2025-09-03,Google Ads,,Miami,United States
+CUST00688,Liam,Sanchez,liam.sanchez70@example.com,2025-06-26,Meta Ads,,Denver,United States
+CUST00689,Elijah,Garcia,elijah.garcia22@example.com,2024-09-10,Email,,Miami,United States
+CUST00690,Ethan,Clark,ethan.clark17@example.com,2026-02-21,Referral,,Houston,United States
+CUST00691,Evelyn,Ramirez,evelyn.ramirez59@example.com,2024-12-29,Referral,,Chicago,United States
+CUST00692,Oliver,Davis,oliver.davis85@example.com,2024-11-21,Organic,,San Francisco,United States
+CUST00693,Logan,Jackson,logan.jackson13@example.com,2025-12-21,Organic,,Denver,United States
+CUST00694,Evelyn,Jones,evelyn.jones82@example.com,2024-07-11,Organic,,Boston,United States
+CUST00695,Ethan,Martinez,ethan.martinez32@example.com,2025-05-17,Google Ads,,New York,United States
+CUST00696,Elijah,Martin,elijah.martin38@example.com,2024-01-21,Meta Ads,,New York,United States
+CUST00697,Mia,Robinson,mia.robinson88@example.com,2024-07-25,Organic,,San Francisco,United States
+CUST00698,Emily,Garcia,emily.garcia51@example.com,2024-03-01,Google Ads,,Denver,United States
+CUST00699,Emily,Robinson,emily.robinson28@example.com,2026-03-03,Google Ads,,Austin,United States
+CUST00700,Daniel,Lopez,daniel.lopez19@example.com,2025-01-17,Organic,,Seattle,United States
+CUST00701,Evelyn,Brown,evelyn.brown53@example.com,2024-11-05,Meta Ads,,Chicago,United States
+CUST00702,Jacob,Wilson,jacob.wilson91@example.com,2025-05-13,Email,,Chicago,United States
+CUST00703,Emily,Moore,emily.moore98@example.com,2025-09-20,Organic,,Houston,United States
+CUST00704,Henry,Jackson,henry.jackson32@example.com,2025-01-22,Meta Ads,,Miami,United States
+CUST00705,Ava,Garcia,ava.garcia10@example.com,2025-12-19,Referral,,Seattle,United States
+CUST00706,Daniel,Harris,daniel.harris82@example.com,2024-02-03,Google Ads,,San Francisco,United States
+CUST00707,Logan,Sanchez,logan.sanchez88@example.com,2024-08-14,Email,,Los Angeles,United States
+CUST00708,Logan,Thomas,logan.thomas28@example.com,2024-12-05,Organic,,Houston,United States
+CUST00709,Benjamin,Hernandez,benjamin.hernandez31@example.com,2025-10-13,Organic,,Los Angeles,United States
+CUST00710,Sofia,Thompson,sofia.thompson95@example.com,2025-10-16,Organic,,San Francisco,United States
+CUST00711,Amelia,Smith,amelia.smith43@example.com,2024-08-02,Google Ads,,Los Angeles,United States
+CUST00712,Benjamin,Rodriguez,benjamin.rodriguez23@example.com,2026-01-07,Google Ads,,Seattle,United States
+CUST00713,Amelia,White,amelia.white63@example.com,2024-06-19,Organic,,Boston,United States
+CUST00714,Avery,Gonzalez,avery.gonzalez54@example.com,2025-07-13,Meta Ads,,Boston,United States
+CUST00715,Michael,Ramirez,michael.ramirez83@example.com,2025-10-28,Organic,,Houston,United States
+CUST00716,Oliver,Anderson,oliver.anderson19@example.com,2026-03-29,Organic,,Miami,United States
+CUST00717,Emma,Hernandez,emma.hernandez43@example.com,2024-04-17,Google Ads,,Chicago,United States
+CUST00718,Avery,Gonzalez,avery.gonzalez30@example.com,2026-01-19,Google Ads,,Los Angeles,United States
+CUST00719,Mia,Martin,mia.martin88@example.com,2025-05-09,Organic,,Seattle,United States
+CUST00720,Abigail,Garcia,abigail.garcia87@example.com,2025-03-20,Google Ads,,Los Angeles,United States
+CUST00721,Mia,Miller,mia.miller34@example.com,2025-02-23,Email,,Austin,United States
+CUST00722,Isabella,Perez,isabella.perez46@example.com,2024-10-31,Google Ads,,New York,United States
+CUST00723,Charlotte,Jackson,charlotte.jackson80@example.com,2025-05-17,Google Ads,,San Francisco,United States
+CUST00724,Emma,Wilson,emma.wilson21@example.com,2024-10-28,Organic,,Denver,United States
+CUST00725,Mason,Miller,mason.miller22@example.com,2024-01-27,Google Ads,,Miami,United States
+CUST00726,Olivia,Thomas,olivia.thomas24@example.com,2024-11-11,Organic,,Boston,United States
+CUST00727,Mason,Lewis,mason.lewis94@example.com,2024-09-28,Google Ads,,Austin,United States
+CUST00728,Charlotte,Garcia,charlotte.garcia57@example.com,2025-01-25,Meta Ads,,Boston,United States
+CUST00729,Liam,Rodriguez,liam.rodriguez66@example.com,2025-04-21,Google Ads,,Miami,United States
+CUST00730,Evelyn,Johnson,evelyn.johnson29@example.com,2026-02-09,Email,,Los Angeles,United States
+CUST00731,Olivia,Perez,olivia.perez54@example.com,2025-07-08,Meta Ads,,Denver,United States
+CUST00732,Elijah,Moore,elijah.moore17@example.com,2025-01-31,Organic,,Seattle,United States
+CUST00733,Ethan,Perez,ethan.perez70@example.com,2025-08-09,Organic,,Boston,United States
+CUST00734,James,Williams,james.williams60@example.com,2026-01-01,Google Ads,,Denver,United States
+CUST00735,Avery,Taylor,avery.taylor83@example.com,2025-11-24,Referral,,Chicago,United States
+CUST00736,Noah,Harris,noah.harris67@example.com,2024-06-26,Referral,,Chicago,United States
+CUST00737,Sophia,Sanchez,sophia.sanchez34@example.com,2024-05-09,Google Ads,,Los Angeles,United States
+CUST00738,Henry,Wilson,henry.wilson35@example.com,2025-10-04,Google Ads,,Denver,United States
+CUST00739,Isabella,Hernandez,isabella.hernandez18@example.com,2024-03-30,Meta Ads,,Seattle,United States
+CUST00740,Ethan,Hernandez,ethan.hernandez45@example.com,2025-06-16,Meta Ads,,New York,United States
+CUST00741,Michael,Thompson,michael.thompson89@example.com,2025-08-24,Meta Ads,,Seattle,United States
+CUST00742,Noah,Wilson,noah.wilson29@example.com,2024-05-31,Email,,Denver,United States
+CUST00743,Elizabeth,Brown,elizabeth.brown23@example.com,2025-07-30,Organic,,Miami,United States
+CUST00744,Daniel,Moore,daniel.moore54@example.com,2025-02-24,Google Ads,,Boston,United States
+CUST00745,Evelyn,Martin,evelyn.martin70@example.com,2024-02-08,Google Ads,,Seattle,United States
+CUST00746,Ava,Martin,ava.martin87@example.com,2025-11-28,Email,,New York,United States
+CUST00747,Charlotte,Lewis,charlotte.lewis52@example.com,2025-12-08,Google Ads,,Boston,United States
+CUST00748,Logan,Rodriguez,logan.rodriguez57@example.com,2024-01-21,Meta Ads,,Miami,United States
+CUST00749,James,Rodriguez,james.rodriguez72@example.com,2025-12-13,Email,,Houston,United States
+CUST00750,Ava,Martinez,ava.martinez66@example.com,2026-03-03,Organic,,Miami,United States
+CUST00751,Jacob,Wilson,jacob.wilson87@example.com,2025-10-23,Google Ads,,Boston,United States
+CUST00752,Sophia,Robinson,sophia.robinson62@example.com,2026-01-28,Meta Ads,,Austin,United States
+CUST00753,Daniel,Lopez,daniel.lopez17@example.com,2025-06-11,Organic,,Los Angeles,United States
+CUST00754,James,Thompson,james.thompson74@example.com,2025-02-17,Google Ads,,Austin,United States
+CUST00755,Avery,Jackson,avery.jackson13@example.com,2024-06-26,Google Ads,,Houston,United States
+CUST00756,Sofia,Johnson,sofia.johnson41@example.com,2024-02-03,Meta Ads,,San Francisco,United States
+CUST00757,Emily,Miller,emily.miller45@example.com,2025-01-12,Organic,,Austin,United States
+CUST00758,Charlotte,Lee,charlotte.lee25@example.com,2025-11-28,Google Ads,,San Francisco,United States
+CUST00759,Mason,Martin,mason.martin67@example.com,2024-06-30,Referral,,Boston,United States
+CUST00760,Evelyn,Moore,evelyn.moore54@example.com,2024-12-18,Google Ads,,Miami,United States
+CUST00761,Jacob,Clark,jacob.clark98@example.com,2024-04-02,Google Ads,,Seattle,United States
+CUST00762,Liam,Garcia,liam.garcia83@example.com,2026-03-09,Referral,,Houston,United States
+CUST00763,Abigail,Davis,abigail.davis96@example.com,2024-07-30,Google Ads,,Seattle,United States
+CUST00764,Harper,Smith,harper.smith97@example.com,2024-01-10,Meta Ads,,Chicago,United States
+CUST00765,Abigail,Garcia,abigail.garcia86@example.com,2024-01-09,Google Ads,,Denver,United States
+CUST00766,Michael,Martinez,michael.martinez92@example.com,2024-10-08,Meta Ads,,Seattle,United States
+CUST00767,Daniel,Lopez,daniel.lopez68@example.com,2024-09-15,Google Ads,,Miami,United States
+CUST00768,Henry,Taylor,henry.taylor89@example.com,2025-02-10,Email,,New York,United States
+CUST00769,Harper,Perez,harper.perez57@example.com,2025-07-28,Email,,Denver,United States
+CUST00770,James,Martinez,james.martinez97@example.com,2024-04-20,Meta Ads,,San Francisco,United States
+CUST00771,Isabella,Lee,isabella.lee51@example.com,2024-10-10,Google Ads,,Miami,United States
+CUST00772,Sophia,Jones,sophia.jones76@example.com,2026-02-22,Google Ads,,New York,United States
+CUST00773,Michael,Ramirez,michael.ramirez86@example.com,2025-02-17,Email,,Chicago,United States
+CUST00774,Jacob,Smith,jacob.smith93@example.com,2025-05-24,Referral,,Miami,United States
+CUST00775,Logan,Wilson,logan.wilson61@example.com,2025-02-01,Organic,,Denver,United States
+CUST00776,Emily,Jackson,emily.jackson34@example.com,2024-12-17,Organic,,Houston,United States
+CUST00777,Henry,Moore,henry.moore91@example.com,2026-03-14,Meta Ads,,San Francisco,United States
+CUST00778,Harper,Martinez,harper.martinez31@example.com,2025-11-04,Organic,,Chicago,United States
+CUST00779,James,Brown,james.brown70@example.com,2024-05-11,Organic,,Austin,United States
+CUST00780,Elizabeth,Robinson,elizabeth.robinson33@example.com,2025-11-27,Organic,,Los Angeles,United States
+CUST00781,Elijah,Lopez,elijah.lopez38@example.com,2026-02-01,Organic,,Seattle,United States
+CUST00782,Michael,Lewis,michael.lewis52@example.com,2025-01-15,Google Ads,,Miami,United States
+CUST00783,Amelia,Ramirez,amelia.ramirez25@example.com,2025-04-26,Google Ads,,Denver,United States
+CUST00784,Evelyn,Martin,evelyn.martin19@example.com,2025-04-28,Organic,,Austin,United States
+CUST00785,Noah,Ramirez,noah.ramirez97@example.com,2025-01-25,Meta Ads,,Seattle,United States
+CUST00786,Liam,Ramirez,liam.ramirez29@example.com,2024-05-20,Referral,,San Francisco,United States
+CUST00787,Lucas,Jackson,lucas.jackson68@example.com,2024-05-26,Meta Ads,,Chicago,United States
+CUST00788,Elizabeth,Williams,elizabeth.williams72@example.com,2024-12-06,Email,,Chicago,United States
+CUST00789,Mia,Lee,mia.lee17@example.com,2024-01-05,Meta Ads,,Houston,United States
+CUST00790,Elizabeth,Harris,elizabeth.harris31@example.com,2025-08-13,Organic,,Boston,United States
+CUST00791,Michael,Harris,michael.harris21@example.com,2024-05-12,Email,,Seattle,United States
+CUST00792,Charlotte,Wilson,charlotte.wilson71@example.com,2025-01-27,Google Ads,,Austin,United States
+CUST00793,Sophia,White,sophia.white57@example.com,2024-01-15,Organic,,Austin,United States
+CUST00794,Sophia,Smith,sophia.smith96@example.com,2024-01-05,Email,,Houston,United States
+CUST00795,Elijah,Thompson,elijah.thompson54@example.com,2024-11-15,Google Ads,,Seattle,United States
+CUST00796,Harper,Jackson,harper.jackson49@example.com,2024-06-20,Google Ads,,New York,United States
+CUST00797,James,Martinez,james.martinez68@example.com,2026-01-15,Meta Ads,,Austin,United States
+CUST00798,Mia,Wilson,mia.wilson97@example.com,2024-05-17,Meta Ads,,Boston,United States
+CUST00799,Benjamin,Harris,benjamin.harris34@example.com,2024-06-17,Referral,,Seattle,United States
+CUST00800,Emma,Davis,emma.davis38@example.com,2026-01-14,Referral,,Houston,United States
+CUST00801,Jacob,Smith,jacob.smith85@example.com,2025-05-31,Google Ads,,San Francisco,United States
+CUST00802,Emily,Lee,emily.lee14@example.com,2025-01-19,Organic,,Miami,United States
+CUST00803,Elizabeth,Moore,elizabeth.moore89@example.com,2024-02-19,Email,,New York,United States
+CUST00804,Henry,Brown,henry.brown93@example.com,2024-01-21,Google Ads,,Los Angeles,United States
+CUST00805,Lucas,Anderson,lucas.anderson58@example.com,2024-05-06,Meta Ads,,Boston,United States
+CUST00806,Emily,Jones,emily.jones36@example.com,2025-12-12,Email,,New York,United States
+CUST00807,James,Wilson,james.wilson94@example.com,2024-04-13,Email,,Miami,United States
+CUST00808,Alexander,Martin,alexander.martin99@example.com,2024-05-20,Meta Ads,,Los Angeles,United States
+CUST00809,Harper,White,harper.white89@example.com,2024-04-30,Google Ads,,Los Angeles,United States
+CUST00810,Mason,Miller,mason.miller87@example.com,2024-07-23,Organic,,Austin,United States
+CUST00811,Sophia,Lopez,sophia.lopez62@example.com,2024-10-29,Google Ads,,Austin,United States
+CUST00812,Mason,Robinson,mason.robinson36@example.com,2025-12-05,Referral,,San Francisco,United States
+CUST00813,Elijah,Smith,elijah.smith11@example.com,2025-11-18,Google Ads,,Los Angeles,United States
+CUST00814,Sofia,Jackson,sofia.jackson95@example.com,2025-05-20,Google Ads,,Los Angeles,United States
+CUST00815,Elizabeth,Taylor,elizabeth.taylor19@example.com,2026-01-10,Organic,,Miami,United States
+CUST00816,Abigail,Davis,abigail.davis68@example.com,2024-10-30,Google Ads,,New York,United States
+CUST00817,Noah,Clark,noah.clark32@example.com,2024-02-10,Organic,,San Francisco,United States
+CUST00818,Michael,Perez,michael.perez50@example.com,2025-03-12,Organic,,Los Angeles,United States
+CUST00819,Daniel,Harris,daniel.harris15@example.com,2024-01-10,Organic,,Chicago,United States
+CUST00820,Mia,Lopez,mia.lopez66@example.com,2025-09-28,Google Ads,,Los Angeles,United States
+CUST00821,Benjamin,Clark,benjamin.clark53@example.com,2024-07-06,Google Ads,,Seattle,United States
+CUST00822,Amelia,Rodriguez,amelia.rodriguez59@example.com,2025-12-07,Organic,,Seattle,United States
+CUST00823,Abigail,Lewis,abigail.lewis31@example.com,2024-04-25,Google Ads,,New York,United States
+CUST00824,Daniel,Garcia,daniel.garcia23@example.com,2025-03-02,Referral,,Boston,United States
+CUST00825,Michael,Jackson,michael.jackson96@example.com,2025-03-24,Google Ads,,Seattle,United States
+CUST00826,Elizabeth,Lopez,elizabeth.lopez88@example.com,2024-01-30,Organic,,Chicago,United States
+CUST00827,Mason,Robinson,mason.robinson72@example.com,2024-04-25,Organic,,Boston,United States
+CUST00828,Liam,Williams,liam.williams43@example.com,2025-11-01,Meta Ads,,Austin,United States
+CUST00829,Elizabeth,White,elizabeth.white83@example.com,2026-01-11,Email,,San Francisco,United States
+CUST00830,Harper,Taylor,harper.taylor98@example.com,2025-12-18,Email,,Seattle,United States
+CUST00831,Henry,White,henry.white41@example.com,2025-05-08,Meta Ads,,Seattle,United States
+CUST00832,Ava,Clark,ava.clark81@example.com,2025-09-19,Google Ads,,Chicago,United States
+CUST00833,Harper,Ramirez,harper.ramirez70@example.com,2025-05-22,Organic,,Los Angeles,United States
+CUST00834,Elizabeth,Thomas,elizabeth.thomas51@example.com,2024-09-03,Meta Ads,,Miami,United States
+CUST00835,Liam,Taylor,liam.taylor38@example.com,2025-07-17,Email,,Seattle,United States
+CUST00836,Sofia,Davis,sofia.davis20@example.com,2025-04-15,Meta Ads,,Denver,United States
+CUST00837,Amelia,Williams,amelia.williams73@example.com,2025-04-02,Meta Ads,,Boston,United States
+CUST00838,Jacob,Lee,jacob.lee12@example.com,2024-04-15,Meta Ads,,New York,United States
+CUST00839,Ethan,Moore,ethan.moore10@example.com,2024-04-03,Organic,,Denver,United States
+CUST00840,Abigail,Martinez,abigail.martinez75@example.com,2025-07-29,Google Ads,,Boston,United States
+CUST00841,Mia,Lopez,mia.lopez16@example.com,2024-08-16,Organic,,San Francisco,United States
+CUST00842,Ethan,Harris,ethan.harris89@example.com,2025-09-06,Meta Ads,,San Francisco,United States
+CUST00843,Emily,Anderson,emily.anderson24@example.com,2024-04-09,Organic,,Houston,United States
+CUST00844,Emma,Hernandez,emma.hernandez55@example.com,2025-10-10,Referral,,Miami,United States
+CUST00845,Ethan,Taylor,ethan.taylor57@example.com,2025-12-19,Google Ads,,Chicago,United States
+CUST00846,Mason,Jones,mason.jones62@example.com,2024-04-19,Google Ads,,Houston,United States
+CUST00847,Sophia,Brown,sophia.brown60@example.com,2024-08-08,Meta Ads,,Houston,United States
+CUST00848,Emily,Hernandez,emily.hernandez23@example.com,2026-02-14,Meta Ads,,Denver,United States
+CUST00849,Noah,Harris,noah.harris67@example.com,2025-04-13,Email,,Austin,United States
+CUST00850,Ava,Thomas,ava.thomas10@example.com,2025-06-27,Organic,,Austin,United States
+CUST00851,Logan,Wilson,logan.wilson84@example.com,2025-05-09,Referral,,Chicago,United States
+CUST00852,Emily,Jackson,emily.jackson32@example.com,2026-01-18,Organic,,Los Angeles,United States
+CUST00853,Charlotte,Perez,charlotte.perez86@example.com,2025-09-12,Organic,,Austin,United States
+CUST00854,Avery,Gonzalez,avery.gonzalez63@example.com,2025-09-15,Referral,,Houston,United States
+CUST00855,Isabella,Gonzalez,isabella.gonzalez53@example.com,2024-10-28,Meta Ads,,Chicago,United States
+CUST00856,Ava,Wilson,ava.wilson87@example.com,2025-12-17,Organic,,Austin,United States
+CUST00857,James,Clark,james.clark99@example.com,2025-07-14,Organic,,Austin,United States
+CUST00858,Abigail,Miller,abigail.miller35@example.com,2024-08-02,Email,,Miami,United States
+CUST00859,Henry,Lopez,henry.lopez96@example.com,2024-05-15,Referral,,Chicago,United States
+CUST00860,Harper,Moore,harper.moore98@example.com,2025-10-14,Meta Ads,,Los Angeles,United States
+CUST00861,Elizabeth,Lopez,elizabeth.lopez81@example.com,2025-05-06,Email,,Seattle,United States
+CUST00862,Henry,White,henry.white78@example.com,2024-10-19,Organic,,Seattle,United States
+CUST00863,Michael,Smith,michael.smith76@example.com,2024-04-19,Google Ads,,Chicago,United States
+CUST00864,Liam,Perez,liam.perez17@example.com,2024-07-23,Google Ads,,Chicago,United States
+CUST00865,James,Perez,james.perez42@example.com,2024-05-29,Organic,,Miami,United States
+CUST00866,Sophia,Harris,sophia.harris79@example.com,2024-02-03,Meta Ads,,Boston,United States
+CUST00867,Noah,Martin,noah.martin96@example.com,2026-01-27,Email,,Houston,United States
+CUST00868,Jacob,Lee,jacob.lee81@example.com,2025-02-02,Google Ads,,Miami,United States
+CUST00869,Emily,Perez,emily.perez16@example.com,2025-01-25,Meta Ads,,San Francisco,United States
+CUST00870,Ethan,Johnson,ethan.johnson11@example.com,2026-01-31,Google Ads,,Denver,United States
+CUST00871,Daniel,Harris,daniel.harris66@example.com,2024-08-18,Referral,,San Francisco,United States
+CUST00872,Elizabeth,Jackson,elizabeth.jackson79@example.com,2026-01-26,Email,,Houston,United States
+CUST00873,James,Anderson,james.anderson32@example.com,2025-11-30,Google Ads,,Chicago,United States
+CUST00874,Jacob,Taylor,jacob.taylor25@example.com,2025-01-21,Google Ads,,Miami,United States
+CUST00875,Ethan,Rodriguez,ethan.rodriguez26@example.com,2024-06-13,Email,,Miami,United States
+CUST00876,Emma,Hernandez,emma.hernandez69@example.com,2025-12-27,Referral,,New York,United States
+CUST00877,Ava,Robinson,ava.robinson51@example.com,2025-09-03,Google Ads,,Denver,United States
+CUST00878,Sofia,Perez,sofia.perez48@example.com,2025-05-17,Organic,,Austin,United States
+CUST00879,Benjamin,Williams,benjamin.williams50@example.com,2025-06-22,Google Ads,,Chicago,United States
+CUST00880,Harper,Williams,harper.williams74@example.com,2024-06-12,Meta Ads,,Austin,United States
+CUST00881,Charlotte,Williams,charlotte.williams54@example.com,2024-08-14,Organic,,San Francisco,United States
+CUST00882,Mia,Lopez,mia.lopez47@example.com,2024-08-11,Referral,,Denver,United States
+CUST00883,Harper,Thomas,harper.thomas81@example.com,2026-02-09,Referral,,New York,United States
+CUST00884,Noah,Perez,noah.perez54@example.com,2025-04-01,Google Ads,,Denver,United States
+CUST00885,Logan,Martin,logan.martin41@example.com,2024-02-10,Email,,San Francisco,United States
+CUST00886,Charlotte,Robinson,charlotte.robinson24@example.com,2025-01-30,Google Ads,,Miami,United States
+CUST00887,Emma,Robinson,emma.robinson76@example.com,2026-02-27,Meta Ads,,Austin,United States
+CUST00888,Amelia,Thomas,amelia.thomas15@example.com,2024-10-30,Organic,,Houston,United States
+CUST00889,Mia,Taylor,mia.taylor20@example.com,2024-04-08,Google Ads,,Austin,United States
+CUST00890,Ethan,Smith,ethan.smith90@example.com,2024-03-08,Google Ads,,Houston,United States
+CUST00891,Daniel,Perez,daniel.perez64@example.com,2024-04-16,Google Ads,,Seattle,United States
+CUST00892,Abigail,Clark,abigail.clark19@example.com,2026-02-03,Email,,New York,United States
+CUST00893,Amelia,Thompson,amelia.thompson52@example.com,2024-02-08,Google Ads,,New York,United States
+CUST00894,Oliver,Sanchez,oliver.sanchez42@example.com,2025-07-25,Google Ads,,Houston,United States
+CUST00895,Logan,Rodriguez,logan.rodriguez62@example.com,2025-02-01,Meta Ads,,Seattle,United States
+CUST00896,Lucas,Hernandez,lucas.hernandez12@example.com,2025-02-02,Email,,Austin,United States
+CUST00897,Emma,Lee,emma.lee89@example.com,2024-03-05,Organic,,Denver,United States
+CUST00898,Liam,Thompson,liam.thompson19@example.com,2025-01-01,Referral,,Los Angeles,United States
+CUST00899,James,Sanchez,james.sanchez97@example.com,2024-11-04,Email,,Miami,United States
+CUST00900,Elizabeth,Robinson,elizabeth.robinson66@example.com,2025-01-25,Meta Ads,,New York,United States
+CUST00901,Mason,Garcia,mason.garcia78@example.com,2024-08-13,Google Ads,,Seattle,United States
+CUST00902,Michael,Sanchez,michael.sanchez79@example.com,2024-10-29,Referral,,Chicago,United States
+CUST00903,James,Perez,james.perez92@example.com,2025-01-17,Referral,,New York,United States
+CUST00904,Ethan,Ramirez,ethan.ramirez81@example.com,2024-05-24,Google Ads,,New York,United States
+CUST00905,Evelyn,Martin,evelyn.martin60@example.com,2025-07-04,Meta Ads,,Los Angeles,United States
+CUST00906,James,Miller,james.miller54@example.com,2024-08-04,Meta Ads,,Austin,United States
+CUST00907,Ava,Garcia,ava.garcia33@example.com,2024-08-14,Email,,Miami,United States
+CUST00908,Sophia,Brown,sophia.brown33@example.com,2025-11-18,Organic,,New York,United States
+CUST00909,Daniel,Harris,daniel.harris80@example.com,2025-04-17,Email,,Los Angeles,United States
+CUST00910,James,Perez,james.perez18@example.com,2024-09-13,Google Ads,,Denver,United States
+CUST00911,Mason,Hernandez,mason.hernandez55@example.com,2024-05-11,Email,,Houston,United States
+CUST00912,Noah,Martinez,noah.martinez89@example.com,2024-03-12,Referral,,San Francisco,United States
+CUST00913,Mason,Anderson,mason.anderson52@example.com,2025-09-23,Email,,Denver,United States
+CUST00914,Ava,Jackson,ava.jackson82@example.com,2025-01-08,Organic,,Seattle,United States
+CUST00915,Oliver,Smith,oliver.smith50@example.com,2024-09-09,Organic,,Seattle,United States
+CUST00916,Isabella,Clark,isabella.clark56@example.com,2024-05-17,Email,,San Francisco,United States
+CUST00917,Avery,Thomas,avery.thomas69@example.com,2025-04-01,Meta Ads,,Miami,United States
+CUST00918,Mason,Moore,mason.moore23@example.com,2024-06-28,Email,,Los Angeles,United States
+CUST00919,Sofia,Rodriguez,sofia.rodriguez27@example.com,2025-07-05,Google Ads,,Los Angeles,United States
+CUST00920,Jacob,Williams,jacob.williams12@example.com,2025-06-03,Email,,Denver,United States
+CUST00921,Evelyn,Gonzalez,evelyn.gonzalez85@example.com,2024-08-05,Referral,,Austin,United States
+CUST00922,Isabella,Moore,isabella.moore79@example.com,2025-04-28,Email,,Chicago,United States
+CUST00923,Benjamin,Gonzalez,benjamin.gonzalez38@example.com,2026-03-01,Email,,Miami,United States
+CUST00924,Ava,Anderson,ava.anderson74@example.com,2025-06-06,Google Ads,,San Francisco,United States
+CUST00925,Harper,Smith,harper.smith94@example.com,2024-09-01,Organic,,Denver,United States
+CUST00926,Henry,Garcia,henry.garcia75@example.com,2024-05-23,Meta Ads,,Chicago,United States
+CUST00927,Evelyn,Jackson,evelyn.jackson94@example.com,2024-05-29,Organic,,Boston,United States
+CUST00928,Benjamin,Johnson,benjamin.johnson38@example.com,2026-02-18,Meta Ads,,Los Angeles,United States
+CUST00929,Isabella,Lopez,isabella.lopez39@example.com,2024-02-13,Email,,Austin,United States
+CUST00930,Logan,Sanchez,logan.sanchez56@example.com,2025-02-01,Meta Ads,,Boston,United States
+CUST00931,Avery,Johnson,avery.johnson15@example.com,2025-10-26,Meta Ads,,Austin,United States
+CUST00932,Abigail,Clark,abigail.clark45@example.com,2026-01-29,Google Ads,,Austin,United States
+CUST00933,Evelyn,Garcia,evelyn.garcia58@example.com,2025-10-31,Meta Ads,,Denver,United States
+CUST00934,Abigail,Lewis,abigail.lewis19@example.com,2025-06-13,Google Ads,,Houston,United States
+CUST00935,Harper,Gonzalez,harper.gonzalez55@example.com,2024-12-19,Meta Ads,,Boston,United States
+CUST00936,Avery,Martin,avery.martin10@example.com,2025-05-28,Organic,,Boston,United States
+CUST00937,Oliver,Davis,oliver.davis19@example.com,2025-06-10,Email,,Houston,United States
+CUST00938,Ava,Garcia,ava.garcia30@example.com,2025-01-05,Email,,Los Angeles,United States
+CUST00939,Henry,Davis,henry.davis63@example.com,2024-12-04,Organic,,Boston,United States
+CUST00940,Henry,Thomas,henry.thomas71@example.com,2024-08-03,Email,,Seattle,United States
+CUST00941,Emma,Davis,emma.davis15@example.com,2024-05-10,Email,,Chicago,United States
+CUST00942,Ava,Lee,ava.lee75@example.com,2024-02-10,Organic,,Chicago,United States
+CUST00943,Liam,Garcia,liam.garcia43@example.com,2024-07-03,Meta Ads,,Seattle,United States
+CUST00944,Alexander,Jackson,alexander.jackson91@example.com,2024-01-20,Organic,,Miami,United States
+CUST00945,Olivia,Miller,olivia.miller67@example.com,2025-09-13,Referral,,Boston,United States
+CUST00946,Oliver,Davis,oliver.davis62@example.com,2025-09-07,Google Ads,,Denver,United States
+CUST00947,Sofia,Harris,sofia.harris33@example.com,2025-09-30,Email,,Miami,United States
+CUST00948,Oliver,White,oliver.white97@example.com,2024-12-16,Referral,,Denver,United States
+CUST00949,Evelyn,Williams,evelyn.williams39@example.com,2025-01-22,Meta Ads,,Los Angeles,United States
+CUST00950,Emma,Miller,emma.miller76@example.com,2025-05-31,Email,,Chicago,United States
+CUST00951,Alexander,Brown,alexander.brown32@example.com,2025-05-02,Referral,,Denver,United States
+CUST00952,Liam,Lewis,liam.lewis78@example.com,2025-05-30,Organic,,Los Angeles,United States
+CUST00953,Mason,Perez,mason.perez26@example.com,2025-09-09,Meta Ads,,New York,United States
+CUST00954,Avery,Harris,avery.harris96@example.com,2025-10-26,Meta Ads,,Seattle,United States
+CUST00955,Benjamin,Ramirez,benjamin.ramirez15@example.com,2025-12-15,Meta Ads,,Houston,United States
+CUST00956,Michael,Thomas,michael.thomas58@example.com,2024-12-24,Email,,Denver,United States
+CUST00957,Noah,Wilson,noah.wilson27@example.com,2024-09-17,Meta Ads,,Houston,United States
+CUST00958,Logan,Ramirez,logan.ramirez20@example.com,2024-10-17,Email,,Austin,United States
+CUST00959,Lucas,Rodriguez,lucas.rodriguez34@example.com,2024-01-06,Organic,,New York,United States
+CUST00960,Evelyn,Taylor,evelyn.taylor25@example.com,2025-06-16,Google Ads,,Houston,United States
+CUST00961,Emily,Sanchez,emily.sanchez50@example.com,2025-02-22,Meta Ads,,Chicago,United States
+CUST00962,Lucas,Lee,lucas.lee84@example.com,2024-09-16,Google Ads,,Austin,United States
+CUST00963,Lucas,Jackson,lucas.jackson56@example.com,2025-09-18,Google Ads,,Seattle,United States
+CUST00964,Elizabeth,Miller,elizabeth.miller62@example.com,2025-07-19,Organic,,Boston,United States
+CUST00965,Oliver,Lopez,oliver.lopez81@example.com,2025-07-22,Meta Ads,,Miami,United States
+CUST00966,Evelyn,Lopez,evelyn.lopez60@example.com,2026-01-23,Google Ads,,Los Angeles,United States
+CUST00967,Jacob,Davis,jacob.davis67@example.com,2026-03-12,Email,,Chicago,United States
+CUST00968,Noah,Miller,noah.miller75@example.com,2025-02-14,Organic,,Austin,United States
+CUST00969,Alexander,Thompson,alexander.thompson97@example.com,2025-12-24,Google Ads,,Seattle,United States
+CUST00970,Abigail,Smith,abigail.smith21@example.com,2024-05-28,Meta Ads,,Denver,United States
+CUST00971,Lucas,Williams,lucas.williams18@example.com,2024-09-26,Google Ads,,Los Angeles,United States
+CUST00972,Alexander,Johnson,alexander.johnson59@example.com,2025-02-14,Email,,Austin,United States
+CUST00973,James,Thompson,james.thompson86@example.com,2024-02-28,Referral,,Chicago,United States
+CUST00974,Abigail,Thomas,abigail.thomas66@example.com,2024-01-11,Google Ads,,Austin,United States
+CUST00975,James,Miller,james.miller14@example.com,2026-03-13,Email,,Austin,United States
+CUST00976,Emily,Davis,emily.davis88@example.com,2024-06-22,Email,,San Francisco,United States
+CUST00977,Elijah,Lee,elijah.lee10@example.com,2024-06-10,Google Ads,,Miami,United States
+CUST00978,Elizabeth,Gonzalez,elizabeth.gonzalez55@example.com,2025-11-16,Meta Ads,,Denver,United States
+CUST00979,Sophia,Taylor,sophia.taylor11@example.com,2026-01-24,Organic,,Los Angeles,United States
+CUST00980,Ethan,Martinez,ethan.martinez81@example.com,2025-08-19,Meta Ads,,Miami,United States
+CUST00981,Elijah,Martin,elijah.martin34@example.com,2025-04-10,Referral,,Denver,United States
+CUST00982,Emma,Rodriguez,emma.rodriguez32@example.com,2025-02-20,Meta Ads,,Austin,United States
+CUST00983,Olivia,Taylor,olivia.taylor47@example.com,2024-12-14,Referral,,Austin,United States
+CUST00984,Isabella,Lewis,isabella.lewis78@example.com,2026-03-23,Email,,Boston,United States
+CUST00985,Charlotte,Jackson,charlotte.jackson71@example.com,2026-02-27,Google Ads,,San Francisco,United States
+CUST00986,Elizabeth,Anderson,elizabeth.anderson97@example.com,2025-04-16,Organic,,New York,United States
+CUST00987,Mason,Brown,mason.brown43@example.com,2024-03-10,Meta Ads,,Houston,United States
+CUST00988,Henry,Thompson,henry.thompson39@example.com,2026-03-30,Meta Ads,,San Francisco,United States
+CUST00989,Harper,Moore,harper.moore11@example.com,2025-12-18,Organic,,Houston,United States
+CUST00990,James,Williams,james.williams61@example.com,2025-11-20,Organic,,San Francisco,United States
+CUST00991,Olivia,Moore,olivia.moore32@example.com,2025-05-02,Meta Ads,,Houston,United States
+CUST00992,Avery,Jackson,avery.jackson44@example.com,2024-07-06,Referral,,Houston,United States
+CUST00993,Mason,White,mason.white35@example.com,2024-08-28,Organic,,Miami,United States
+CUST00994,Sophia,Davis,sophia.davis35@example.com,2024-09-12,Organic,,San Francisco,United States
+CUST00995,Ava,Harris,ava.harris23@example.com,2024-05-02,Referral,,Boston,United States
+CUST00996,Alexander,Smith,alexander.smith79@example.com,2024-02-13,Organic,,San Francisco,United States
+CUST00997,Alexander,Hernandez,alexander.hernandez73@example.com,2025-08-11,Organic,,Boston,United States
+CUST00998,Oliver,Harris,oliver.harris75@example.com,2024-10-13,Meta Ads,,Denver,United States
+CUST00999,Ava,Johnson,ava.johnson77@example.com,2026-03-29,Meta Ads,,Austin,United States
+CUST01000,Liam,Taylor,liam.taylor54@example.com,2025-02-07,Organic,,Chicago,United States
+CUST01001,Amelia,Brown,amelia.brown99@example.com,2025-06-14,Meta Ads,,New York,United States
+CUST01002,Emma,Perez,emma.perez36@example.com,2025-01-23,Email,,San Francisco,United States
+CUST01003,Benjamin,Martin,benjamin.martin43@example.com,2024-07-10,Meta Ads,,Houston,United States
+CUST01004,Isabella,Thomas,isabella.thomas88@example.com,2024-12-17,Meta Ads,,Boston,United States
+CUST01005,Lucas,Miller,lucas.miller63@example.com,2025-12-18,Organic,,San Francisco,United States
+CUST01006,Daniel,Gonzalez,daniel.gonzalez45@example.com,2025-04-06,Google Ads,,Chicago,United States
+CUST01007,Evelyn,Perez,evelyn.perez39@example.com,2024-04-12,Organic,,Houston,United States
+CUST01008,Ethan,Wilson,ethan.wilson58@example.com,2024-07-19,Google Ads,,Chicago,United States
+CUST01009,Mason,Sanchez,mason.sanchez11@example.com,2024-06-29,Meta Ads,,Chicago,United States
+CUST01010,Avery,Ramirez,avery.ramirez90@example.com,2025-06-13,Meta Ads,,San Francisco,United States
+CUST01011,Michael,Thomas,michael.thomas48@example.com,2024-09-13,Email,,Denver,United States
+CUST01012,Liam,Gonzalez,liam.gonzalez22@example.com,2025-12-08,Google Ads,,Houston,United States
+CUST01013,Sofia,Rodriguez,sofia.rodriguez70@example.com,2025-10-06,Google Ads,,San Francisco,United States
+CUST01014,Isabella,Lopez,isabella.lopez56@example.com,2025-07-27,Email,,Miami,United States
+CUST01015,Benjamin,Smith,benjamin.smith62@example.com,2024-05-04,Meta Ads,,Denver,United States
+CUST01016,Sophia,Jackson,sophia.jackson83@example.com,2025-10-27,Email,,Chicago,United States
+CUST01017,Elizabeth,Martinez,elizabeth.martinez55@example.com,2024-11-28,Email,,Boston,United States
+CUST01018,Elizabeth,White,elizabeth.white67@example.com,2024-03-21,Meta Ads,,Miami,United States
+CUST01019,Amelia,Lee,amelia.lee28@example.com,2024-06-20,Email,,San Francisco,United States
+CUST01020,Lucas,Lee,lucas.lee88@example.com,2025-08-08,Meta Ads,,Los Angeles,United States
+CUST01021,Olivia,Garcia,olivia.garcia53@example.com,2024-08-21,Meta Ads,,Miami,United States
+CUST01022,Emily,Rodriguez,emily.rodriguez87@example.com,2025-10-22,Meta Ads,,Boston,United States
+CUST01023,Elizabeth,Ramirez,elizabeth.ramirez56@example.com,2026-02-04,Email,,Boston,United States
+CUST01024,Lucas,Garcia,lucas.garcia33@example.com,2024-01-24,Google Ads,,Houston,United States
+CUST01025,Henry,Rodriguez,henry.rodriguez99@example.com,2026-02-06,Google Ads,,Chicago,United States
+CUST01026,Charlotte,Brown,charlotte.brown22@example.com,2024-03-06,Referral,,Boston,United States
+CUST01027,Ethan,Johnson,ethan.johnson13@example.com,2026-02-28,Meta Ads,,Los Angeles,United States
+CUST01028,Noah,Rodriguez,noah.rodriguez89@example.com,2024-06-08,Google Ads,,Seattle,United States
+CUST01029,James,Davis,james.davis41@example.com,2026-01-25,Google Ads,,Chicago,United States
+CUST01030,Ava,Taylor,ava.taylor31@example.com,2024-01-30,Google Ads,,San Francisco,United States
+CUST01031,Daniel,Robinson,daniel.robinson51@example.com,2025-05-02,Meta Ads,,Austin,United States
+CUST01032,Logan,Rodriguez,logan.rodriguez80@example.com,2025-03-31,Google Ads,,Austin,United States
+CUST01033,Oliver,Jackson,oliver.jackson86@example.com,2025-04-12,Email,,Denver,United States
+CUST01034,Lucas,Taylor,lucas.taylor91@example.com,2025-10-16,Meta Ads,,San Francisco,United States
+CUST01035,Mason,Moore,mason.moore39@example.com,2024-04-01,Meta Ads,,San Francisco,United States
+CUST01036,Lucas,Rodriguez,lucas.rodriguez29@example.com,2024-11-06,Google Ads,,Austin,United States
+CUST01037,Sofia,Harris,sofia.harris27@example.com,2024-12-18,Google Ads,,Austin,United States
+CUST01038,Emma,Thompson,emma.thompson72@example.com,2026-02-12,Meta Ads,,New York,United States
+CUST01039,Elizabeth,Wilson,elizabeth.wilson47@example.com,2025-09-03,Google Ads,,New York,United States
+CUST01040,Ethan,Lopez,ethan.lopez34@example.com,2025-02-25,Organic,,Seattle,United States
+CUST01041,Charlotte,Davis,charlotte.davis30@example.com,2026-01-02,Organic,,Seattle,United States
+CUST01042,Sofia,Gonzalez,sofia.gonzalez38@example.com,2024-09-26,Google Ads,,Houston,United States
+CUST01043,Harper,Harris,harper.harris88@example.com,2025-12-11,Email,,Miami,United States
+CUST01044,Abigail,White,abigail.white78@example.com,2024-10-02,Meta Ads,,Los Angeles,United States
+CUST01045,Oliver,Jones,oliver.jones47@example.com,2024-04-23,Email,,Denver,United States
+CUST01046,Amelia,Rodriguez,amelia.rodriguez99@example.com,2025-09-29,Meta Ads,,San Francisco,United States
+CUST01047,Emma,Jones,emma.jones16@example.com,2025-07-01,Google Ads,,Los Angeles,United States
+CUST01048,James,Rodriguez,james.rodriguez26@example.com,2026-01-02,Meta Ads,,New York,United States
+CUST01049,Elijah,Williams,elijah.williams29@example.com,2024-01-16,Meta Ads,,San Francisco,United States
+CUST01050,Lucas,Martinez,lucas.martinez73@example.com,2025-01-15,Meta Ads,,New York,United States
+CUST01051,Mia,Williams,mia.williams28@example.com,2024-02-27,Google Ads,,Seattle,United States
+CUST01052,Olivia,Moore,olivia.moore70@example.com,2024-07-04,Google Ads,,Miami,United States
+CUST01053,Sofia,Gonzalez,sofia.gonzalez11@example.com,2024-05-04,Referral,,Houston,United States
+CUST01054,Charlotte,Harris,charlotte.harris66@example.com,2024-09-10,Organic,,New York,United States
+CUST01055,Sophia,Anderson,sophia.anderson22@example.com,2025-06-17,Email,,Houston,United States
+CUST01056,Mason,Gonzalez,mason.gonzalez97@example.com,2024-11-15,Referral,,Chicago,United States
+CUST01057,Abigail,White,abigail.white15@example.com,2026-02-01,Referral,,Austin,United States
+CUST01058,Noah,Rodriguez,noah.rodriguez71@example.com,2025-10-15,Google Ads,,San Francisco,United States
+CUST01059,Avery,Johnson,avery.johnson95@example.com,2024-08-11,Referral,,Houston,United States
+CUST01060,Abigail,Wilson,abigail.wilson51@example.com,2024-01-16,Google Ads,,Miami,United States
+CUST01061,Evelyn,Brown,evelyn.brown60@example.com,2026-03-19,Google Ads,,New York,United States
+CUST01062,Evelyn,Sanchez,evelyn.sanchez98@example.com,2025-05-01,Email,,Chicago,United States
+CUST01063,Benjamin,Harris,benjamin.harris21@example.com,2024-09-11,Google Ads,,Los Angeles,United States
+CUST01064,Henry,Martin,henry.martin53@example.com,2026-02-16,Email,,New York,United States
+CUST01065,Benjamin,Lee,benjamin.lee29@example.com,2025-12-19,Meta Ads,,Los Angeles,United States
+CUST01066,Ava,Thomas,ava.thomas39@example.com,2024-11-20,Referral,,San Francisco,United States
+CUST01067,Michael,Lewis,michael.lewis66@example.com,2026-01-20,Google Ads,,Seattle,United States
+CUST01068,Benjamin,White,benjamin.white27@example.com,2024-09-13,Organic,,Boston,United States
+CUST01069,Emily,Anderson,emily.anderson81@example.com,2024-10-28,Meta Ads,,Boston,United States
+CUST01070,Sophia,Jackson,sophia.jackson33@example.com,2025-07-10,Meta Ads,,Boston,United States
+CUST01071,Isabella,Ramirez,isabella.ramirez86@example.com,2025-07-21,Google Ads,,Austin,United States
+CUST01072,Ava,Anderson,ava.anderson47@example.com,2024-09-26,Meta Ads,,Boston,United States
+CUST01073,Emma,Harris,emma.harris91@example.com,2025-06-02,Meta Ads,,Chicago,United States
+CUST01074,Avery,Smith,avery.smith89@example.com,2025-01-07,Organic,,Houston,United States
+CUST01075,Mia,White,mia.white18@example.com,2025-11-05,Referral,,Seattle,United States
+CUST01076,Sophia,Taylor,sophia.taylor97@example.com,2025-05-24,Organic,,Chicago,United States
+CUST01077,Alexander,Martinez,alexander.martinez51@example.com,2025-02-23,Email,,Los Angeles,United States
+CUST01078,Noah,Taylor,noah.taylor94@example.com,2024-03-09,Google Ads,,Chicago,United States
+CUST01079,Oliver,Ramirez,oliver.ramirez14@example.com,2024-07-25,Google Ads,,Houston,United States
+CUST01080,Noah,Johnson,noah.johnson83@example.com,2025-10-19,Organic,,Boston,United States
+CUST01081,Harper,Martin,harper.martin99@example.com,2025-08-27,Google Ads,,San Francisco,United States
+CUST01082,Elijah,Martin,elijah.martin19@example.com,2024-01-14,Referral,,Houston,United States
+CUST01083,Abigail,Thomas,abigail.thomas20@example.com,2025-04-24,Organic,,New York,United States
+CUST01084,Benjamin,Moore,benjamin.moore63@example.com,2025-01-12,Organic,,New York,United States
+CUST01085,Sofia,Martin,sofia.martin44@example.com,2025-06-25,Google Ads,,Los Angeles,United States
+CUST01086,Sofia,Martinez,sofia.martinez19@example.com,2024-08-09,Referral,,Los Angeles,United States
+CUST01087,Noah,White,noah.white39@example.com,2025-06-28,Meta Ads,,Houston,United States
+CUST01088,Harper,Perez,harper.perez41@example.com,2025-08-06,Email,,Chicago,United States
+CUST01089,Ethan,White,ethan.white81@example.com,2025-03-01,Organic,,Denver,United States
+CUST01090,Benjamin,Perez,benjamin.perez68@example.com,2025-12-20,Email,,Los Angeles,United States
+CUST01091,Oliver,Sanchez,oliver.sanchez33@example.com,2025-07-17,Meta Ads,,San Francisco,United States
+CUST01092,Henry,Garcia,henry.garcia78@example.com,2025-09-06,Meta Ads,,San Francisco,United States
+CUST01093,Avery,Hernandez,avery.hernandez80@example.com,2024-11-28,Organic,,Seattle,United States
+CUST01094,Elizabeth,Lee,elizabeth.lee65@example.com,2026-01-13,Meta Ads,,Houston,United States
+CUST01095,Evelyn,Moore,evelyn.moore37@example.com,2025-01-19,Organic,,Miami,United States
+CUST01096,Benjamin,Anderson,benjamin.anderson67@example.com,2025-02-10,Google Ads,,New York,United States
+CUST01097,James,Martin,james.martin12@example.com,2025-06-14,Google Ads,,Miami,United States
+CUST01098,Emma,Martinez,emma.martinez38@example.com,2024-08-07,Organic,,New York,United States
+CUST01099,Elizabeth,Clark,elizabeth.clark98@example.com,2024-10-09,Referral,,Austin,United States
+CUST01100,Ethan,Jackson,ethan.jackson83@example.com,2024-06-07,Google Ads,,Boston,United States
+CUST01101,Benjamin,Jones,benjamin.jones27@example.com,2024-09-28,Meta Ads,,Denver,United States
+CUST01102,Elijah,Davis,elijah.davis42@example.com,2024-11-03,Google Ads,,Seattle,United States
+CUST01103,Evelyn,Robinson,evelyn.robinson37@example.com,2026-01-21,Google Ads,,San Francisco,United States
+CUST01104,Michael,Thomas,michael.thomas32@example.com,2025-05-14,Organic,,Denver,United States
+CUST01105,Sofia,Robinson,sofia.robinson22@example.com,2025-09-01,Email,,New York,United States
+CUST01106,Jacob,Sanchez,jacob.sanchez83@example.com,2025-01-25,Google Ads,,New York,United States
+CUST01107,Logan,Harris,logan.harris52@example.com,2024-12-22,Organic,,Seattle,United States
+CUST01108,Lucas,Robinson,lucas.robinson25@example.com,2026-02-27,Google Ads,,Denver,United States
+CUST01109,Logan,Smith,logan.smith91@example.com,2026-03-07,Email,,New York,United States
+CUST01110,James,Taylor,james.taylor15@example.com,2024-11-22,Meta Ads,,Chicago,United States
+CUST01111,Mia,Taylor,mia.taylor99@example.com,2024-08-14,Google Ads,,Seattle,United States
+CUST01112,Amelia,Harris,amelia.harris86@example.com,2025-08-12,Meta Ads,,Houston,United States
+CUST01113,Lucas,Martinez,lucas.martinez60@example.com,2024-05-31,Google Ads,,Los Angeles,United States
+CUST01114,Mason,Jackson,mason.jackson16@example.com,2025-07-15,Meta Ads,,Los Angeles,United States
+CUST01115,Charlotte,Taylor,charlotte.taylor65@example.com,2026-03-03,Email,,Chicago,United States
+CUST01116,Mason,Moore,mason.moore35@example.com,2025-05-14,Meta Ads,,Denver,United States
+CUST01117,Sophia,Moore,sophia.moore88@example.com,2026-01-23,Meta Ads,,Houston,United States
+CUST01118,Olivia,Rodriguez,olivia.rodriguez65@example.com,2024-11-27,Email,,Denver,United States
+CUST01119,Olivia,Brown,olivia.brown95@example.com,2025-02-27,Meta Ads,,San Francisco,United States
+CUST01120,Sophia,Hernandez,sophia.hernandez54@example.com,2025-08-31,Email,,Miami,United States
+CUST01121,Oliver,Lopez,oliver.lopez88@example.com,2025-03-28,Email,,Boston,United States
+CUST01122,Liam,Robinson,liam.robinson39@example.com,2024-07-23,Email,,Chicago,United States
+CUST01123,Elizabeth,White,elizabeth.white20@example.com,2024-04-25,Organic,,Houston,United States
+CUST01124,Alexander,Robinson,alexander.robinson28@example.com,2024-10-21,Google Ads,,Los Angeles,United States
+CUST01125,James,Anderson,james.anderson70@example.com,2024-01-24,Meta Ads,,Austin,United States
+CUST01126,Sophia,Miller,sophia.miller79@example.com,2025-06-19,Organic,,Austin,United States
+CUST01127,Mason,Martin,mason.martin28@example.com,2025-12-12,Email,,New York,United States
+CUST01128,Charlotte,Jackson,charlotte.jackson94@example.com,2025-06-23,Google Ads,,Chicago,United States
+CUST01129,Liam,Martinez,liam.martinez35@example.com,2026-03-19,Email,,Miami,United States
+CUST01130,Liam,Anderson,liam.anderson93@example.com,2024-01-09,Google Ads,,Miami,United States
+CUST01131,Henry,Ramirez,henry.ramirez94@example.com,2025-01-03,Organic,,New York,United States
+CUST01132,James,Ramirez,james.ramirez93@example.com,2025-01-30,Google Ads,,Seattle,United States
+CUST01133,Harper,Thompson,harper.thompson22@example.com,2024-11-19,Meta Ads,,Denver,United States
+CUST01134,Ethan,Williams,ethan.williams33@example.com,2024-07-22,Meta Ads,,Boston,United States
+CUST01135,Ethan,Robinson,ethan.robinson12@example.com,2024-02-10,Google Ads,,Austin,United States
+CUST01136,James,Hernandez,james.hernandez72@example.com,2025-02-06,Organic,,New York,United States
+CUST01137,Benjamin,Perez,benjamin.perez55@example.com,2024-12-29,Email,,Houston,United States
+CUST01138,Harper,Rodriguez,harper.rodriguez17@example.com,2025-10-02,Google Ads,,Seattle,United States
+CUST01139,Avery,Clark,avery.clark13@example.com,2025-07-22,Referral,,Houston,United States
+CUST01140,Ava,Hernandez,ava.hernandez60@example.com,2025-11-03,Google Ads,,Seattle,United States
+CUST01141,Harper,Perez,harper.perez88@example.com,2025-10-02,Email,,Seattle,United States
+CUST01142,Elijah,Jackson,elijah.jackson29@example.com,2025-03-12,Referral,,Denver,United States
+CUST01143,Mia,Anderson,mia.anderson79@example.com,2024-05-14,Google Ads,,Chicago,United States
+CUST01144,Evelyn,Moore,evelyn.moore97@example.com,2026-03-30,Google Ads,,Chicago,United States
+CUST01145,James,Thompson,james.thompson77@example.com,2024-05-18,Meta Ads,,Chicago,United States
+CUST01146,Abigail,Robinson,abigail.robinson82@example.com,2024-06-10,Meta Ads,,Austin,United States
+CUST01147,Ethan,White,ethan.white25@example.com,2024-07-07,Meta Ads,,Chicago,United States
+CUST01148,Jacob,Smith,jacob.smith50@example.com,2025-02-27,Referral,,Miami,United States
+CUST01149,Amelia,White,amelia.white91@example.com,2026-01-26,Google Ads,,Houston,United States
+CUST01150,Noah,Jones,noah.jones33@example.com,2024-01-27,Organic,,Denver,United States
+CUST01151,Alexander,Rodriguez,alexander.rodriguez87@example.com,2025-08-03,Email,,Denver,United States
+CUST01152,Elijah,Davis,elijah.davis97@example.com,2024-01-27,Meta Ads,,Boston,United States
+CUST01153,Ava,Taylor,ava.taylor87@example.com,2025-04-25,Organic,,San Francisco,United States
+CUST01154,Oliver,Ramirez,oliver.ramirez59@example.com,2025-05-18,Meta Ads,,Chicago,United States
+CUST01155,Sophia,Davis,sophia.davis14@example.com,2025-02-22,Organic,,New York,United States
+CUST01156,Logan,Rodriguez,logan.rodriguez62@example.com,2024-08-15,Organic,,Houston,United States
+CUST01157,Elizabeth,Miller,elizabeth.miller18@example.com,2024-06-30,Referral,,Boston,United States
+CUST01158,Daniel,Martin,daniel.martin72@example.com,2025-12-05,Meta Ads,,Boston,United States
+CUST01159,Avery,Davis,avery.davis64@example.com,2025-02-18,Organic,,Denver,United States
+CUST01160,Jacob,Clark,jacob.clark58@example.com,2026-01-07,Meta Ads,,Denver,United States
+CUST01161,Jacob,Jackson,jacob.jackson86@example.com,2025-07-03,Meta Ads,,New York,United States
+CUST01162,Harper,Brown,harper.brown67@example.com,2025-04-12,Organic,,New York,United States
+CUST01163,Avery,Davis,avery.davis76@example.com,2025-07-04,Meta Ads,,New York,United States
+CUST01164,Ethan,Gonzalez,ethan.gonzalez76@example.com,2026-02-22,Email,,New York,United States
+CUST01165,Sophia,Martinez,sophia.martinez66@example.com,2025-02-11,Organic,,Miami,United States
+CUST01166,Amelia,Garcia,amelia.garcia64@example.com,2024-10-28,Email,,New York,United States
+CUST01167,Emily,Taylor,emily.taylor28@example.com,2025-04-19,Organic,,Boston,United States
+CUST01168,Olivia,White,olivia.white74@example.com,2024-04-25,Google Ads,,Denver,United States
+CUST01169,Avery,Thompson,avery.thompson79@example.com,2024-05-18,Meta Ads,,San Francisco,United States
+CUST01170,Amelia,Smith,amelia.smith32@example.com,2025-04-09,Email,,Houston,United States
+CUST01171,Avery,Anderson,avery.anderson21@example.com,2024-09-13,Meta Ads,,Chicago,United States
+CUST01172,Emily,White,emily.white25@example.com,2024-04-03,Google Ads,,Boston,United States
+CUST01173,Abigail,Lopez,abigail.lopez20@example.com,2025-06-20,Organic,,Austin,United States
+CUST01174,Alexander,Garcia,alexander.garcia58@example.com,2025-07-17,Meta Ads,,Chicago,United States
+CUST01175,Logan,Hernandez,logan.hernandez82@example.com,2025-11-06,Organic,,Chicago,United States
+CUST01176,Daniel,Jones,daniel.jones32@example.com,2026-02-26,Organic,,Seattle,United States
+CUST01177,James,Martinez,james.martinez67@example.com,2024-10-22,Email,,Los Angeles,United States
+CUST01178,Avery,Jones,avery.jones35@example.com,2024-01-04,Email,,Miami,United States
+CUST01179,Emma,Anderson,emma.anderson73@example.com,2025-05-25,Meta Ads,,New York,United States
+CUST01180,Alexander,Lewis,alexander.lewis73@example.com,2024-08-31,Google Ads,,Boston,United States
+CUST01181,Amelia,Wilson,amelia.wilson66@example.com,2024-03-22,Email,,New York,United States
+CUST01182,Elijah,Lewis,elijah.lewis80@example.com,2024-10-11,Email,,Austin,United States
+CUST01183,Sofia,Clark,sofia.clark36@example.com,2024-02-20,Google Ads,,New York,United States
+CUST01184,Abigail,Lopez,abigail.lopez14@example.com,2024-05-28,Organic,,Denver,United States
+CUST01185,Sofia,Martin,sofia.martin48@example.com,2024-12-05,Referral,,New York,United States
+CUST01186,Noah,Wilson,noah.wilson32@example.com,2024-06-14,Email,,Denver,United States
+CUST01187,Henry,Thompson,henry.thompson99@example.com,2025-09-01,Email,,Austin,United States
+CUST01188,Oliver,Anderson,oliver.anderson84@example.com,2025-01-03,Referral,,Los Angeles,United States
+CUST01189,Elizabeth,Martinez,elizabeth.martinez51@example.com,2025-01-12,Organic,,Los Angeles,United States
+CUST01190,Elizabeth,Wilson,elizabeth.wilson80@example.com,2024-03-07,Google Ads,,Chicago,United States
+CUST01191,Noah,Thompson,noah.thompson45@example.com,2024-12-03,Meta Ads,,Austin,United States
+CUST01192,Sophia,Thompson,sophia.thompson36@example.com,2025-09-18,Google Ads,,Denver,United States
+CUST01193,Jacob,Lee,jacob.lee77@example.com,2024-03-30,Meta Ads,,Denver,United States
+CUST01194,Logan,Sanchez,logan.sanchez46@example.com,2025-03-13,Email,,San Francisco,United States
+CUST01195,Isabella,Taylor,isabella.taylor83@example.com,2025-09-30,Meta Ads,,Chicago,United States
+CUST01196,Alexander,Jackson,alexander.jackson73@example.com,2025-06-16,Organic,,Boston,United States
+CUST01197,Mason,Sanchez,mason.sanchez33@example.com,2025-09-16,Google Ads,,Miami,United States
+CUST01198,Sophia,Smith,sophia.smith25@example.com,2024-01-25,Meta Ads,,Los Angeles,United States
+CUST01199,Jacob,Ramirez,jacob.ramirez36@example.com,2026-03-29,Email,,Seattle,United States
+CUST01200,Lucas,Johnson,lucas.johnson52@example.com,2024-12-24,Email,,Houston,United States
+CUST01201,Emma,Lee,emma.lee35@example.com,2025-12-07,Google Ads,,Los Angeles,United States
+CUST01202,James,Martinez,james.martinez74@example.com,2025-07-17,Meta Ads,,New York,United States
+CUST01203,Noah,Perez,noah.perez52@example.com,2024-12-15,Meta Ads,,Denver,United States
+CUST01204,Alexander,Smith,alexander.smith32@example.com,2024-07-17,Meta Ads,,San Francisco,United States
+CUST01205,Logan,Perez,logan.perez71@example.com,2025-04-30,Organic,,Chicago,United States
+CUST01206,Mason,Jones,mason.jones90@example.com,2025-04-16,Organic,,Austin,United States
+CUST01207,Avery,Hernandez,avery.hernandez69@example.com,2026-03-13,Organic,,New York,United States
+CUST01208,Sofia,Taylor,sofia.taylor48@example.com,2025-08-01,Organic,,San Francisco,United States
+CUST01209,Ethan,Moore,ethan.moore12@example.com,2024-08-01,Email,,San Francisco,United States
+CUST01210,Michael,Robinson,michael.robinson55@example.com,2024-03-08,Referral,,Miami,United States
+CUST01211,Sofia,Smith,sofia.smith53@example.com,2025-01-19,Email,,Chicago,United States
+CUST01212,Evelyn,Martin,evelyn.martin59@example.com,2024-07-10,Email,,Miami,United States
+CUST01213,Emily,Ramirez,emily.ramirez50@example.com,2025-12-27,Google Ads,,Seattle,United States
+CUST01214,Olivia,Thomas,olivia.thomas40@example.com,2025-01-15,Meta Ads,,Miami,United States
+CUST01215,Sophia,Taylor,sophia.taylor48@example.com,2024-06-28,Google Ads,,New York,United States
+CUST01216,Elizabeth,Miller,elizabeth.miller21@example.com,2025-03-30,Meta Ads,,Boston,United States
+CUST01217,Avery,Taylor,avery.taylor29@example.com,2024-07-13,Meta Ads,,Boston,United States
+CUST01218,Jacob,Ramirez,jacob.ramirez77@example.com,2024-11-13,Organic,,Chicago,United States
+CUST01219,Elizabeth,Ramirez,elizabeth.ramirez22@example.com,2025-06-12,Email,,Chicago,United States
+CUST01220,Sophia,White,sophia.white14@example.com,2025-04-15,Meta Ads,,Austin,United States
+CUST01221,Noah,Smith,noah.smith49@example.com,2024-02-15,Email,,Denver,United States
+CUST01222,Daniel,Williams,daniel.williams52@example.com,2025-04-23,Organic,,Los Angeles,United States
+CUST01223,Harper,Harris,harper.harris94@example.com,2026-02-02,Meta Ads,,Denver,United States
+CUST01224,Elizabeth,Martinez,elizabeth.martinez91@example.com,2024-08-02,Meta Ads,,Houston,United States
+CUST01225,James,Rodriguez,james.rodriguez78@example.com,2024-11-22,Organic,,Los Angeles,United States
+CUST01226,Isabella,Jones,isabella.jones30@example.com,2024-10-07,Google Ads,,Denver,United States
+CUST01227,Ethan,Taylor,ethan.taylor23@example.com,2024-07-30,Meta Ads,,Austin,United States
+CUST01228,Mia,Rodriguez,mia.rodriguez28@example.com,2025-12-22,Organic,,Denver,United States
+CUST01229,Elijah,Garcia,elijah.garcia19@example.com,2024-11-14,Email,,San Francisco,United States
+CUST01230,Ethan,Anderson,ethan.anderson16@example.com,2024-05-13,Google Ads,,New York,United States
+CUST01231,Noah,Gonzalez,noah.gonzalez16@example.com,2024-03-29,Meta Ads,,Chicago,United States
+CUST01232,Emily,Martin,emily.martin85@example.com,2025-10-06,Organic,,Boston,United States
+CUST01233,Alexander,Lopez,alexander.lopez49@example.com,2024-12-06,Organic,,Austin,United States
+CUST01234,Olivia,Robinson,olivia.robinson69@example.com,2025-08-04,Google Ads,,Boston,United States
+CUST01235,Noah,Anderson,noah.anderson49@example.com,2025-12-01,Email,,Boston,United States
+CUST01236,Mason,Davis,mason.davis38@example.com,2024-05-27,Organic,,Denver,United States
+CUST01237,Isabella,Robinson,isabella.robinson56@example.com,2025-02-05,Google Ads,,San Francisco,United States
+CUST01238,Michael,Ramirez,michael.ramirez51@example.com,2025-04-09,Meta Ads,,Los Angeles,United States
+CUST01239,Mason,Brown,mason.brown54@example.com,2025-05-05,Meta Ads,,Chicago,United States
+CUST01240,James,Harris,james.harris54@example.com,2025-09-10,Email,,Austin,United States
+CUST01241,Noah,Gonzalez,noah.gonzalez23@example.com,2024-11-29,Email,,Los Angeles,United States
+CUST01242,Michael,Martinez,michael.martinez78@example.com,2025-04-17,Meta Ads,,Seattle,United States
+CUST01243,Elijah,Martin,elijah.martin41@example.com,2025-07-15,Google Ads,,Boston,United States
+CUST01244,Charlotte,Williams,charlotte.williams53@example.com,2024-08-01,Organic,,Denver,United States
+CUST01245,Lucas,Sanchez,lucas.sanchez65@example.com,2025-08-03,Organic,,Austin,United States
+CUST01246,Emily,Davis,emily.davis32@example.com,2025-11-09,Email,,Denver,United States
+CUST01247,Sofia,Thomas,sofia.thomas24@example.com,2025-08-29,Email,,San Francisco,United States
+CUST01248,Ethan,Brown,ethan.brown66@example.com,2024-06-29,Meta Ads,,Seattle,United States
+CUST01249,Olivia,Martin,olivia.martin23@example.com,2025-12-02,Organic,,Seattle,United States
+CUST01250,Mia,Thomas,mia.thomas92@example.com,2025-11-07,Google Ads,,Houston,United States
+CUST01251,Sofia,Jones,sofia.jones84@example.com,2026-02-12,Email,,New York,United States
+CUST01252,Elizabeth,Jones,elizabeth.jones94@example.com,2024-06-01,Meta Ads,,Miami,United States
+CUST01253,Charlotte,Martin,charlotte.martin83@example.com,2025-04-02,Google Ads,,San Francisco,United States
+CUST01254,James,Jackson,james.jackson96@example.com,2024-11-07,Referral,,Seattle,United States
+CUST01255,Emily,Robinson,emily.robinson54@example.com,2024-04-01,Email,,Denver,United States
+CUST01256,Harper,Gonzalez,harper.gonzalez26@example.com,2024-10-28,Google Ads,,Austin,United States
+CUST01257,Liam,Smith,liam.smith81@example.com,2025-01-02,Google Ads,,Miami,United States
+CUST01258,Daniel,Smith,daniel.smith40@example.com,2025-03-18,Organic,,Seattle,United States
+CUST01259,Abigail,Hernandez,abigail.hernandez58@example.com,2025-02-19,Meta Ads,,Austin,United States
+CUST01260,Sophia,Perez,sophia.perez32@example.com,2025-05-01,Google Ads,,Austin,United States
+CUST01261,Charlotte,Clark,charlotte.clark56@example.com,2025-03-03,Google Ads,,Chicago,United States
+CUST01262,Ava,Smith,ava.smith19@example.com,2025-10-25,Google Ads,,Boston,United States
+CUST01263,Henry,Wilson,henry.wilson27@example.com,2024-03-27,Google Ads,,Seattle,United States
+CUST01264,Daniel,Anderson,daniel.anderson99@example.com,2025-09-10,Referral,,Denver,United States
+CUST01265,Oliver,Anderson,oliver.anderson75@example.com,2025-03-10,Email,,Boston,United States
+CUST01266,Charlotte,Lopez,charlotte.lopez38@example.com,2024-07-09,Meta Ads,,New York,United States
+CUST01267,Evelyn,Thomas,evelyn.thomas40@example.com,2025-12-30,Meta Ads,,Seattle,United States
+CUST01268,Logan,Moore,logan.moore83@example.com,2025-01-10,Google Ads,,New York,United States
+CUST01269,Evelyn,Thomas,evelyn.thomas57@example.com,2024-04-25,Email,,Los Angeles,United States
+CUST01270,Ava,White,ava.white77@example.com,2026-02-07,Organic,,Boston,United States
+CUST01271,Harper,Williams,harper.williams76@example.com,2025-09-16,Google Ads,,Boston,United States
+CUST01272,Abigail,White,abigail.white94@example.com,2025-11-15,Google Ads,,Austin,United States
+CUST01273,Michael,Jackson,michael.jackson49@example.com,2025-09-19,Google Ads,,San Francisco,United States
+CUST01274,Ethan,Harris,ethan.harris11@example.com,2025-04-25,Meta Ads,,Boston,United States
+CUST01275,Evelyn,White,evelyn.white52@example.com,2025-03-07,Meta Ads,,Miami,United States
+CUST01276,James,Garcia,james.garcia14@example.com,2025-12-12,Referral,,Miami,United States
+CUST01277,Jacob,Sanchez,jacob.sanchez82@example.com,2024-09-23,Google Ads,,Boston,United States
+CUST01278,Evelyn,Garcia,evelyn.garcia83@example.com,2024-02-22,Email,,Miami,United States
+CUST01279,Michael,White,michael.white89@example.com,2024-01-28,Google Ads,,Los Angeles,United States
+CUST01280,Ava,Taylor,ava.taylor19@example.com,2026-03-13,Google Ads,,Chicago,United States
+CUST01281,Alexander,Rodriguez,alexander.rodriguez45@example.com,2024-09-20,Google Ads,,Los Angeles,United States
+CUST01282,Alexander,Garcia,alexander.garcia85@example.com,2026-01-26,Google Ads,,Boston,United States
+CUST01283,Benjamin,Sanchez,benjamin.sanchez32@example.com,2024-09-24,Organic,,Houston,United States
+CUST01284,Mason,Garcia,mason.garcia77@example.com,2024-02-03,Meta Ads,,Los Angeles,United States
+CUST01285,Ava,Martin,ava.martin29@example.com,2025-05-22,Organic,,Seattle,United States
+CUST01286,Elizabeth,Gonzalez,elizabeth.gonzalez40@example.com,2025-11-07,Meta Ads,,Chicago,United States
+CUST01287,Sophia,Jackson,sophia.jackson54@example.com,2024-02-25,Email,,Los Angeles,United States
+CUST01288,Liam,Garcia,liam.garcia69@example.com,2025-02-12,Meta Ads,,Boston,United States
+CUST01289,Jacob,Harris,jacob.harris78@example.com,2024-08-27,Meta Ads,,Seattle,United States
+CUST01290,Mason,Rodriguez,mason.rodriguez28@example.com,2025-06-27,Organic,,New York,United States
+CUST01291,James,Robinson,james.robinson67@example.com,2025-01-26,Email,,Austin,United States
+CUST01292,Henry,Johnson,henry.johnson22@example.com,2025-06-28,Email,,Seattle,United States
+CUST01293,Alexander,Robinson,alexander.robinson93@example.com,2024-10-06,Meta Ads,,Miami,United States
+CUST01294,Michael,Brown,michael.brown42@example.com,2025-11-01,Email,,Boston,United States
+CUST01295,Elizabeth,Perez,elizabeth.perez40@example.com,2026-01-21,Email,,Houston,United States
+CUST01296,Harper,Hernandez,harper.hernandez96@example.com,2025-12-07,Referral,,San Francisco,United States
+CUST01297,Ethan,Smith,ethan.smith96@example.com,2024-01-09,Organic,,New York,United States
+CUST01298,Lucas,Brown,lucas.brown77@example.com,2024-04-16,Email,,San Francisco,United States
+CUST01299,Elijah,White,elijah.white46@example.com,2024-09-14,Google Ads,,New York,United States
+CUST01300,Alexander,Williams,alexander.williams17@example.com,2025-08-31,Email,,Houston,United States
+CUST01301,Alexander,Lee,alexander.lee25@example.com,2025-12-26,Referral,,Los Angeles,United States
+CUST01302,Daniel,Martin,daniel.martin26@example.com,2025-01-19,Email,,Denver,United States
+CUST01303,Michael,Garcia,michael.garcia24@example.com,2025-12-13,Google Ads,,Miami,United States
+CUST01304,Amelia,Perez,amelia.perez19@example.com,2025-10-16,Meta Ads,,Miami,United States
+CUST01305,Elizabeth,Wilson,elizabeth.wilson98@example.com,2025-11-14,Organic,,San Francisco,United States
+CUST01306,Isabella,Garcia,isabella.garcia19@example.com,2024-10-10,Organic,,Seattle,United States
+CUST01307,Charlotte,Hernandez,charlotte.hernandez17@example.com,2024-09-21,Referral,,Miami,United States
+CUST01308,Oliver,Anderson,oliver.anderson18@example.com,2025-05-18,Referral,,Houston,United States
+CUST01309,Alexander,Gonzalez,alexander.gonzalez32@example.com,2025-10-22,Meta Ads,,Chicago,United States
+CUST01310,Ethan,Harris,ethan.harris65@example.com,2024-08-11,Email,,Los Angeles,United States
+CUST01311,Logan,Anderson,logan.anderson43@example.com,2024-04-15,Google Ads,,Los Angeles,United States
+CUST01312,Evelyn,White,evelyn.white42@example.com,2026-03-06,Meta Ads,,Boston,United States
+CUST01313,Ava,Lee,ava.lee91@example.com,2024-01-01,Referral,,Seattle,United States
+CUST01314,Isabella,Jones,isabella.jones99@example.com,2024-12-03,Referral,,Denver,United States
+CUST01315,Emma,Taylor,emma.taylor72@example.com,2025-05-04,Meta Ads,,Los Angeles,United States
+CUST01316,Ethan,Davis,ethan.davis10@example.com,2025-01-28,Referral,,Boston,United States
+CUST01317,Noah,Jackson,noah.jackson78@example.com,2025-01-02,Meta Ads,,Miami,United States
+CUST01318,Charlotte,Johnson,charlotte.johnson90@example.com,2025-10-24,Google Ads,,Austin,United States
+CUST01319,Daniel,Hernandez,daniel.hernandez20@example.com,2025-04-15,Organic,,Miami,United States
+CUST01320,Abigail,Miller,abigail.miller32@example.com,2025-07-21,Google Ads,,Seattle,United States
+CUST01321,Henry,Miller,henry.miller48@example.com,2025-12-13,Meta Ads,,Los Angeles,United States
+CUST01322,Abigail,Thompson,abigail.thompson55@example.com,2025-05-13,Google Ads,,Boston,United States
+CUST01323,Jacob,Miller,jacob.miller27@example.com,2024-02-06,Google Ads,,Denver,United States
+CUST01324,Elijah,Thomas,elijah.thomas59@example.com,2024-03-05,Organic,,Miami,United States
+CUST01325,Mason,Moore,mason.moore67@example.com,2024-01-17,Google Ads,,New York,United States
+CUST01326,Mia,Sanchez,mia.sanchez15@example.com,2025-02-19,Google Ads,,Austin,United States
+CUST01327,Amelia,Perez,amelia.perez78@example.com,2024-06-01,Organic,,Houston,United States
+CUST01328,Logan,Williams,logan.williams14@example.com,2026-01-23,Google Ads,,New York,United States
+CUST01329,Mason,Robinson,mason.robinson89@example.com,2024-02-16,Google Ads,,Chicago,United States
+CUST01330,Emma,Garcia,emma.garcia90@example.com,2024-02-21,Referral,,Los Angeles,United States
+CUST01331,Amelia,Martin,amelia.martin31@example.com,2025-08-28,Google Ads,,Los Angeles,United States
+CUST01332,Noah,Thomas,noah.thomas86@example.com,2026-03-29,Email,,Los Angeles,United States
+CUST01333,Michael,Miller,michael.miller64@example.com,2024-12-11,Organic,,Seattle,United States
+CUST01334,Mia,Brown,mia.brown97@example.com,2025-08-12,Meta Ads,,San Francisco,United States
+CUST01335,Sofia,Sanchez,sofia.sanchez37@example.com,2026-02-21,Google Ads,,Chicago,United States
+CUST01336,Mia,Williams,mia.williams25@example.com,2024-10-07,Google Ads,,Seattle,United States
+CUST01337,Oliver,Thompson,oliver.thompson57@example.com,2025-07-20,Google Ads,,Houston,United States
+CUST01338,Logan,Jackson,logan.jackson15@example.com,2024-05-16,Google Ads,,Denver,United States
+CUST01339,Charlotte,Harris,charlotte.harris30@example.com,2024-01-17,Organic,,Los Angeles,United States
+CUST01340,Emma,Smith,emma.smith32@example.com,2024-04-01,Organic,,Denver,United States
+CUST01341,Avery,Martinez,avery.martinez63@example.com,2025-12-11,Organic,,Boston,United States
+CUST01342,Emily,Jones,emily.jones36@example.com,2024-05-26,Email,,Austin,United States
+CUST01343,Amelia,Wilson,amelia.wilson40@example.com,2024-06-27,Email,,New York,United States
+CUST01344,Alexander,Garcia,alexander.garcia73@example.com,2025-09-18,Referral,,Miami,United States
+CUST01345,Benjamin,Wilson,benjamin.wilson10@example.com,2025-07-25,Google Ads,,Los Angeles,United States
+CUST01346,Harper,Brown,harper.brown89@example.com,2025-01-05,Organic,,Austin,United States
+CUST01347,Harper,Davis,harper.davis69@example.com,2026-02-27,Email,,Houston,United States
+CUST01348,Isabella,Johnson,isabella.johnson34@example.com,2024-04-25,Organic,,Boston,United States
+CUST01349,Mason,Garcia,mason.garcia30@example.com,2025-11-17,Referral,,New York,United States
+CUST01350,Abigail,Lopez,abigail.lopez46@example.com,2024-08-02,Meta Ads,,San Francisco,United States
+CUST01351,Alexander,Sanchez,alexander.sanchez68@example.com,2024-02-14,Google Ads,,New York,United States
+CUST01352,Logan,Moore,logan.moore32@example.com,2024-06-10,Organic,,Boston,United States
+CUST01353,Harper,Brown,harper.brown19@example.com,2024-08-28,Organic,,Denver,United States
+CUST01354,Evelyn,Hernandez,evelyn.hernandez63@example.com,2024-07-22,Organic,,San Francisco,United States
+CUST01355,Elijah,Harris,elijah.harris24@example.com,2024-11-29,Google Ads,,Houston,United States
+CUST01356,Jacob,Wilson,jacob.wilson35@example.com,2025-01-19,Organic,,Los Angeles,United States
+CUST01357,Mason,Jackson,mason.jackson72@example.com,2024-02-25,Organic,,Chicago,United States
+CUST01358,Sophia,Robinson,sophia.robinson88@example.com,2025-04-10,Google Ads,,San Francisco,United States
+CUST01359,Ava,Anderson,ava.anderson34@example.com,2025-10-09,Meta Ads,,Miami,United States
+CUST01360,Sophia,Hernandez,sophia.hernandez26@example.com,2024-02-02,Email,,New York,United States
+CUST01361,Isabella,Jones,isabella.jones24@example.com,2025-04-21,Meta Ads,,Chicago,United States
+CUST01362,Elizabeth,Hernandez,elizabeth.hernandez38@example.com,2024-10-29,Email,,Denver,United States
+CUST01363,Avery,Garcia,avery.garcia83@example.com,2025-07-20,Organic,,Los Angeles,United States
+CUST01364,Lucas,Ramirez,lucas.ramirez76@example.com,2025-05-15,Organic,,Houston,United States
+CUST01365,Evelyn,Thomas,evelyn.thomas69@example.com,2024-10-12,Google Ads,,Seattle,United States
+CUST01366,Jacob,Ramirez,jacob.ramirez41@example.com,2024-09-10,Meta Ads,,Denver,United States
+CUST01367,Elijah,Lewis,elijah.lewis85@example.com,2024-06-01,Referral,,New York,United States
+CUST01368,Lucas,Johnson,lucas.johnson15@example.com,2025-04-26,Organic,,Austin,United States
+CUST01369,Liam,Wilson,liam.wilson77@example.com,2025-02-07,Meta Ads,,Los Angeles,United States
+CUST01370,Amelia,Thomas,amelia.thomas40@example.com,2024-03-26,Email,,New York,United States
+CUST01371,Emily,White,emily.white62@example.com,2024-08-11,Google Ads,,Miami,United States
+CUST01372,Elijah,Lee,elijah.lee21@example.com,2024-01-17,Meta Ads,,Miami,United States
+CUST01373,Oliver,Thompson,oliver.thompson68@example.com,2025-08-07,Organic,,New York,United States
+CUST01374,Amelia,Anderson,amelia.anderson27@example.com,2025-12-21,Meta Ads,,San Francisco,United States
+CUST01375,Abigail,Anderson,abigail.anderson91@example.com,2024-01-02,Organic,,Los Angeles,United States
+CUST01376,Charlotte,Lewis,charlotte.lewis98@example.com,2024-12-06,Meta Ads,,Miami,United States
+CUST01377,Lucas,Harris,lucas.harris44@example.com,2025-12-15,Referral,,Austin,United States
+CUST01378,Evelyn,Sanchez,evelyn.sanchez36@example.com,2026-03-17,Email,,Denver,United States
+CUST01379,Avery,Hernandez,avery.hernandez17@example.com,2025-06-11,Referral,,San Francisco,United States
+CUST01380,Avery,Johnson,avery.johnson24@example.com,2025-01-27,Meta Ads,,Denver,United States
+CUST01381,Liam,Lopez,liam.lopez56@example.com,2024-06-28,Email,,Los Angeles,United States
+CUST01382,Ethan,Thompson,ethan.thompson36@example.com,2024-05-21,Referral,,Houston,United States
+CUST01383,Ethan,Brown,ethan.brown93@example.com,2025-05-04,Organic,,Denver,United States
+CUST01384,Daniel,Thompson,daniel.thompson36@example.com,2026-02-10,Organic,,Houston,United States
+CUST01385,Mia,Lopez,mia.lopez44@example.com,2025-05-30,Email,,Miami,United States
+CUST01386,Liam,Williams,liam.williams57@example.com,2024-12-19,Meta Ads,,Austin,United States
+CUST01387,Harper,Clark,harper.clark25@example.com,2025-04-26,Organic,,Austin,United States
+CUST01388,Avery,Martinez,avery.martinez67@example.com,2025-09-27,Meta Ads,,Los Angeles,United States
+CUST01389,Sophia,Lewis,sophia.lewis68@example.com,2024-03-30,Google Ads,,Chicago,United States
+CUST01390,James,Williams,james.williams23@example.com,2024-06-17,Google Ads,,Chicago,United States
+CUST01391,Mason,Jones,mason.jones36@example.com,2025-06-17,Referral,,New York,United States
+CUST01392,James,Wilson,james.wilson97@example.com,2025-07-08,Referral,,Boston,United States
+CUST01393,Benjamin,Wilson,benjamin.wilson66@example.com,2026-01-25,Email,,Miami,United States
+CUST01394,Sophia,Williams,sophia.williams12@example.com,2024-08-25,Organic,,Austin,United States
+CUST01395,Abigail,Hernandez,abigail.hernandez62@example.com,2025-08-15,Meta Ads,,San Francisco,United States
+CUST01396,Mason,Jackson,mason.jackson95@example.com,2025-12-14,Meta Ads,,Austin,United States
+CUST01397,Amelia,Anderson,amelia.anderson48@example.com,2025-08-03,Google Ads,,Miami,United States
+CUST01398,Oliver,Sanchez,oliver.sanchez43@example.com,2024-08-20,Meta Ads,,Miami,United States
+CUST01399,Elizabeth,Ramirez,elizabeth.ramirez16@example.com,2024-05-31,Meta Ads,,Boston,United States
+CUST01400,Oliver,Martin,oliver.martin30@example.com,2025-12-29,Meta Ads,,Chicago,United States
+CUST01401,Oliver,Clark,oliver.clark98@example.com,2025-11-13,Organic,,Chicago,United States
+CUST01402,Elijah,Brown,elijah.brown15@example.com,2024-11-20,Email,,Boston,United States
+CUST01403,Isabella,Lopez,isabella.lopez33@example.com,2024-07-29,Email,,New York,United States
+CUST01404,Henry,Hernandez,henry.hernandez54@example.com,2024-05-31,Meta Ads,,Austin,United States
+CUST01405,Oliver,Moore,oliver.moore48@example.com,2024-05-04,Referral,,Seattle,United States
+CUST01406,Logan,Thomas,logan.thomas28@example.com,2025-04-14,Referral,,Chicago,United States
+CUST01407,Emma,White,emma.white79@example.com,2025-06-03,Meta Ads,,Miami,United States
+CUST01408,Mason,Lewis,mason.lewis47@example.com,2026-02-11,Referral,,Denver,United States
+CUST01409,Henry,Jones,henry.jones82@example.com,2026-01-16,Referral,,Boston,United States
+CUST01410,Mia,Thompson,mia.thompson24@example.com,2026-01-19,Meta Ads,,New York,United States
+CUST01411,Ava,Perez,ava.perez80@example.com,2024-04-29,Meta Ads,,Seattle,United States
+CUST01412,Alexander,Clark,alexander.clark38@example.com,2025-04-01,Meta Ads,,San Francisco,United States
+CUST01413,Liam,Martin,liam.martin92@example.com,2024-07-18,Email,,Houston,United States
+CUST01414,Michael,Robinson,michael.robinson45@example.com,2024-07-19,Google Ads,,Austin,United States
+CUST01415,Daniel,Anderson,daniel.anderson96@example.com,2025-11-18,Referral,,Austin,United States
+CUST01416,Charlotte,Miller,charlotte.miller72@example.com,2024-11-21,Email,,Austin,United States
+CUST01417,Liam,Robinson,liam.robinson95@example.com,2025-01-04,Meta Ads,,Seattle,United States
+CUST01418,Benjamin,Gonzalez,benjamin.gonzalez57@example.com,2024-01-13,Google Ads,,San Francisco,United States
+CUST01419,James,Anderson,james.anderson81@example.com,2024-03-30,Google Ads,,Boston,United States
+CUST01420,Jacob,Wilson,jacob.wilson66@example.com,2024-10-22,Google Ads,,Seattle,United States
+CUST01421,Jacob,Lewis,jacob.lewis63@example.com,2024-05-22,Organic,,Denver,United States
+CUST01422,Olivia,Jones,olivia.jones36@example.com,2024-11-06,Meta Ads,,Austin,United States
+CUST01423,Mia,Williams,mia.williams85@example.com,2026-02-13,Meta Ads,,New York,United States
+CUST01424,Lucas,Lee,lucas.lee44@example.com,2025-02-28,Google Ads,,Boston,United States
+CUST01425,Emily,Jackson,emily.jackson27@example.com,2024-07-23,Google Ads,,Seattle,United States
+CUST01426,James,Moore,james.moore72@example.com,2024-02-13,Organic,,Miami,United States
+CUST01427,Sofia,Jackson,sofia.jackson48@example.com,2025-05-20,Email,,Boston,United States
+CUST01428,Elijah,Smith,elijah.smith10@example.com,2024-06-06,Google Ads,,Boston,United States
+CUST01429,Noah,Lee,noah.lee95@example.com,2024-10-21,Meta Ads,,Boston,United States
+CUST01430,Logan,Thompson,logan.thompson92@example.com,2024-09-07,Google Ads,,Miami,United States
+CUST01431,Mason,Williams,mason.williams86@example.com,2026-02-02,Meta Ads,,Boston,United States
+CUST01432,Evelyn,Wilson,evelyn.wilson43@example.com,2025-10-05,Email,,Los Angeles,United States
+CUST01433,Benjamin,Taylor,benjamin.taylor83@example.com,2024-01-18,Organic,,Chicago,United States
+CUST01434,Evelyn,Johnson,evelyn.johnson28@example.com,2024-11-23,Meta Ads,,Chicago,United States
+CUST01435,Benjamin,Garcia,benjamin.garcia16@example.com,2024-10-06,Meta Ads,,San Francisco,United States
+CUST01436,Liam,Martinez,liam.martinez47@example.com,2025-06-26,Email,,Los Angeles,United States
+CUST01437,Harper,Miller,harper.miller90@example.com,2024-07-06,Organic,,Denver,United States
+CUST01438,Elizabeth,Garcia,elizabeth.garcia79@example.com,2024-11-26,Organic,,Miami,United States
+CUST01439,Isabella,Perez,isabella.perez99@example.com,2025-12-05,Meta Ads,,Austin,United States
+CUST01440,Evelyn,Lopez,evelyn.lopez28@example.com,2024-01-14,Google Ads,,Miami,United States
+CUST01441,Benjamin,Harris,benjamin.harris72@example.com,2025-02-25,Meta Ads,,Chicago,United States
+CUST01442,Noah,Miller,noah.miller29@example.com,2025-05-30,Google Ads,,Houston,United States
+CUST01443,Michael,Lewis,michael.lewis81@example.com,2025-09-20,Email,,Austin,United States
+CUST01444,Daniel,Moore,daniel.moore80@example.com,2025-12-20,Organic,,Los Angeles,United States
+CUST01445,Lucas,Anderson,lucas.anderson19@example.com,2024-04-29,Organic,,New York,United States
+CUST01446,Mason,Lopez,mason.lopez49@example.com,2025-12-08,Meta Ads,,Boston,United States
+CUST01447,Avery,Martin,avery.martin76@example.com,2026-02-20,Referral,,Chicago,United States
+CUST01448,Emily,Martinez,emily.martinez13@example.com,2026-02-01,Organic,,Houston,United States
+CUST01449,Ava,Ramirez,ava.ramirez98@example.com,2024-05-25,Email,,Miami,United States
+CUST01450,Ava,Miller,ava.miller26@example.com,2024-03-21,Meta Ads,,Los Angeles,United States
+CUST01451,Olivia,Smith,olivia.smith71@example.com,2026-02-14,Meta Ads,,Houston,United States
+CUST01452,Noah,Johnson,noah.johnson94@example.com,2025-06-09,Email,,Boston,United States
+CUST01453,Noah,Robinson,noah.robinson42@example.com,2024-02-14,Google Ads,,New York,United States
+CUST01454,Elizabeth,Brown,elizabeth.brown25@example.com,2025-09-08,Google Ads,,Houston,United States
+CUST01455,Oliver,Perez,oliver.perez54@example.com,2024-01-30,Google Ads,,Miami,United States
+CUST01456,Evelyn,Lopez,evelyn.lopez55@example.com,2024-06-13,Organic,,Denver,United States
+CUST01457,Elijah,Taylor,elijah.taylor82@example.com,2024-03-10,Google Ads,,Denver,United States
+CUST01458,Elizabeth,Smith,elizabeth.smith77@example.com,2024-08-10,Organic,,Miami,United States
+CUST01459,Oliver,Lewis,oliver.lewis78@example.com,2024-01-05,Referral,,Los Angeles,United States
+CUST01460,Logan,Miller,logan.miller74@example.com,2025-12-25,Meta Ads,,Denver,United States
+CUST01461,Oliver,Anderson,oliver.anderson96@example.com,2024-04-19,Google Ads,,San Francisco,United States
+CUST01462,Charlotte,Wilson,charlotte.wilson37@example.com,2025-06-10,Google Ads,,Los Angeles,United States
+CUST01463,Elizabeth,Hernandez,elizabeth.hernandez25@example.com,2025-04-22,Google Ads,,Chicago,United States
+CUST01464,Mason,Harris,mason.harris56@example.com,2025-12-22,Google Ads,,New York,United States
+CUST01465,Olivia,Hernandez,olivia.hernandez73@example.com,2024-04-28,Meta Ads,,Boston,United States
+CUST01466,Alexander,White,alexander.white49@example.com,2025-12-04,Referral,,Boston,United States
+CUST01467,Elijah,Moore,elijah.moore62@example.com,2024-10-24,Referral,,Seattle,United States
+CUST01468,Sophia,Ramirez,sophia.ramirez18@example.com,2025-05-02,Referral,,San Francisco,United States
+CUST01469,Oliver,Smith,oliver.smith96@example.com,2025-05-18,Email,,Seattle,United States
+CUST01470,Amelia,Taylor,amelia.taylor94@example.com,2025-11-23,Google Ads,,Chicago,United States
+CUST01471,Charlotte,Gonzalez,charlotte.gonzalez98@example.com,2025-08-27,Referral,,Chicago,United States
+CUST01472,Olivia,Lopez,olivia.lopez35@example.com,2024-12-12,Google Ads,,Seattle,United States
+CUST01473,Noah,Davis,noah.davis64@example.com,2026-01-12,Meta Ads,,Denver,United States
+CUST01474,Evelyn,Rodriguez,evelyn.rodriguez92@example.com,2025-02-13,Meta Ads,,Denver,United States
+CUST01475,Charlotte,Thomas,charlotte.thomas75@example.com,2024-10-12,Google Ads,,Boston,United States
+CUST01476,Noah,Brown,noah.brown42@example.com,2025-05-16,Meta Ads,,Chicago,United States
+CUST01477,Emma,Brown,emma.brown16@example.com,2024-03-10,Meta Ads,,New York,United States
+CUST01478,Oliver,Gonzalez,oliver.gonzalez87@example.com,2025-11-26,Meta Ads,,Miami,United States
+CUST01479,Alexander,Martin,alexander.martin22@example.com,2026-02-17,Google Ads,,Austin,United States
+CUST01480,Elizabeth,Thomas,elizabeth.thomas69@example.com,2024-07-25,Google Ads,,Boston,United States
+CUST01481,Mason,Taylor,mason.taylor43@example.com,2025-07-09,Meta Ads,,Austin,United States
+CUST01482,Ethan,Smith,ethan.smith14@example.com,2025-03-16,Organic,,Los Angeles,United States
+CUST01483,Charlotte,Anderson,charlotte.anderson50@example.com,2025-01-20,Meta Ads,,New York,United States
+CUST01484,Liam,Garcia,liam.garcia81@example.com,2025-11-06,Organic,,Miami,United States
+CUST01485,Avery,Thompson,avery.thompson31@example.com,2025-05-18,Meta Ads,,Miami,United States
+CUST01486,Emily,Gonzalez,emily.gonzalez72@example.com,2026-02-21,Google Ads,,Boston,United States
+CUST01487,Henry,Moore,henry.moore97@example.com,2025-07-06,Email,,Boston,United States
+CUST01488,Ethan,Ramirez,ethan.ramirez30@example.com,2025-06-02,Google Ads,,Miami,United States
+CUST01489,Mason,Jackson,mason.jackson58@example.com,2025-09-23,Email,,Miami,United States
+CUST01490,Mia,Johnson,mia.johnson13@example.com,2025-08-27,Google Ads,,San Francisco,United States
+CUST01491,Benjamin,Sanchez,benjamin.sanchez84@example.com,2024-01-28,Organic,,San Francisco,United States
+CUST01492,Charlotte,Brown,charlotte.brown64@example.com,2024-12-19,Referral,,Seattle,United States
+CUST01493,Benjamin,Johnson,benjamin.johnson94@example.com,2024-09-07,Google Ads,,Miami,United States
+CUST01494,Evelyn,Williams,evelyn.williams98@example.com,2024-03-08,Organic,,Los Angeles,United States
+CUST01495,Mia,Garcia,mia.garcia12@example.com,2025-07-05,Meta Ads,,Boston,United States
+CUST01496,Henry,Ramirez,henry.ramirez64@example.com,2025-08-04,Meta Ads,,Seattle,United States
+CUST01497,Isabella,Smith,isabella.smith99@example.com,2025-04-25,Email,,San Francisco,United States
+CUST01498,Charlotte,Jackson,charlotte.jackson59@example.com,2024-11-26,Email,,Boston,United States
+CUST01499,Noah,Thompson,noah.thompson96@example.com,2024-07-29,Meta Ads,,Austin,United States
+CUST01500,Michael,Harris,michael.harris95@example.com,2024-12-13,Google Ads,,Miami,United States
