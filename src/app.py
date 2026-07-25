@@ -15,20 +15,19 @@ st.set_page_config(
 # Custom CSS for aesthetics
 st.markdown("""
 <style>
-    .reportview-container {
-        background: #fafafa;
-    }
-    .sidebar .sidebar-content {
-        background: #f0f2f6;
-    }
-    h1, h2, h3 {
-        color: #1E3A8A;
-    }
+    /* Dark Theme adjustments for Metric Cards */
     .stMetric {
-        background-color: #ffffff;
+        background-color: #1e2530;
+        border: 1px solid #2d3748;
         padding: 15px;
         border-radius: 10px;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+    [data-testid="stMetricValue"] {
+        color: #f8fafc !important;
+    }
+    [data-testid="stMetricLabel"] {
+        color: #cbd5e1 !important;
     }
 </style>
 """, unsafe_allow_html=True)
